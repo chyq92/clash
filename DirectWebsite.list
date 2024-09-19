@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-KEYWORD,dynv6
 DOMAIN-SUFFIX,dyndns.com
+DOMAIN-KEYWORD,ocsp
