@@ -13,7 +13,8 @@ DOMAIN-SUFFIX,dyndns.com
 DOMAIN-KEYWORD,ocsp
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,standsapp.org
-DOMAIN-SUFFIX,default.exp-tas.com
+DOMAIN,default.exp-tas.com
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pushbulletusercontent.com
-DOMAIN-SUFFIX,crl.verisign.com
+DOMAIN,crl.verisign.com
+DOMAIN,proxy.safebrowsing.apple
