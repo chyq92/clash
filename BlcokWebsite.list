@@ -1,5 +1,5 @@
 # 内容：屏蔽网站
 
 DOMAIN-SUFFIX,ib.adnxs.com
-DOMAIN-SUFFIX,ietheivaicai.com
-DOMAIN-SUFFIX,app-ads-services.com
+DOMAIN-SUFFIX,ietheivaicai.com #喜马拉雅广告
+DOMAIN-SUFFIX,app-ads-services.com #多邻国广告
