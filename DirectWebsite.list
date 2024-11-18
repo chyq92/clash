@@ -1,33 +1,41 @@
 # 内容：直连网站
 
-DOMAIN-SUFFIX,quark.cn
+# ESET
 DOMAIN-SUFFIX,eset.com
 DOMAIN-SUFFIX,eset.systems
 DOMAIN-SUFFIX,e5.sk
+
+# QNAP
 DOMAIN-SUFFIX,qnap.com
 DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,myqnapcloud.io
+
 DOMAIN-SUFFIX,dell.com
-DOMAIN-SUFFIX,pool.ntp.org
-DOMAIN-KEYWORD,dynv6
-DOMAIN-SUFFIX,dyndns.com
-DOMAIN-KEYWORD,ocsp
-DOMAIN-SUFFIX,lencr.org
-DOMAIN-SUFFIX,standsapp.org
-DOMAIN,default.exp-tas.com
-DOMAIN-SUFFIX,pushbullet.com
-DOMAIN-SUFFIX,pushbulletusercontent.com
-DOMAIN,crl.verisign.com
-DOMAIN,proxy.safebrowsing.apple
-DOMAIN,cdn.jsdelivr.net
 DOMAIN,dsadata.intel.com
-DOMAIN,app-analytics-services.com
 DOMAIN-SUFFIX,mcafee.com
 DOMAIN-SUFFIX,hp.com
+DOMAIN,proxy.safebrowsing.apple
+DOMAIN-SUFFIX,azure-devices.net
+
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-KEYWORD,ocsp
+DOMAIN-KEYWORD,dynv6
+DOMAIN-SUFFIX,dyndns.com
+DOMAIN,cdn.jsdelivr.net
+
+DOMAIN-SUFFIX,quark.cn
+DOMAIN-SUFFIX,pushbullet.com
+DOMAIN-SUFFIX,pushbulletusercontent.com
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobe.io
 # DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,azure-devices.net
+
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,standsapp.org
+DOMAIN,default.exp-tas.com
+DOMAIN,crl.verisign.com
+DOMAIN,app-analytics-services.com
 DOMAIN,static.hotjar.com
 DOMAIN-SUFFIX,clicktale.net
+DOMAIN,chat.chatra.io
