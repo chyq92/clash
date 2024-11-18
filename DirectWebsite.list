@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,hp.com
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobe.io
-DOMAIN,a.nel.cloudflare.com
+# DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,azure-devices.net
 DOMAIN,static.hotjar.com
 DOMAIN-SUFFIX,clicktale.net
