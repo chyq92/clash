@@ -22,6 +22,7 @@ DOMAIN-KEYWORD,ocsp
 DOMAIN-KEYWORD,dynv6
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN,cdn.jsdelivr.net
+DOMAIN,fastly.jsdelivr.net
 
 DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,pushbullet.com
