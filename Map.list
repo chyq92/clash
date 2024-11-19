@@ -1,8 +1,9 @@
 # 内容：地图
 
 DOMAIN-SUFFIX,garmin.com
+DOMAIN-SUFFIX,inreachapp.com
 DOMAIN-SUFFIX,maps.me
-DOMAIN-SUFFIX,fatmap.com
+DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,strava.com
 DOMAIN,a.tile.thunderforest.com
 DOMAIN,bulk.tile.geofabrik.de
