@@ -37,7 +37,8 @@ DOMAIN-SUFFIX,standsapp.org
 DOMAIN,default.exp-tas.com
 DOMAIN,crl.verisign.com
 DOMAIN,app-analytics-services.com
-DOMAIN,static.hotjar.com
-DOMAIN,vc.hotjar.io
+DOMAIN-SUFFIX,hotjar.com
+DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,clicktale.net
 DOMAIN-SUFFIX,chatra.io
+DOMAIN-SUFFIX,gravatar.com
