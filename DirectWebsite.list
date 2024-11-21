@@ -14,8 +14,6 @@ DOMAIN-SUFFIX,dell.com
 DOMAIN,dsadata.intel.com
 DOMAIN-SUFFIX,mcafee.com
 DOMAIN-SUFFIX,hp.com
-DOMAIN,proxy.safebrowsing.apple
-DOMAIN-SUFFIX,azure-devices.net
 
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-KEYWORD,ocsp
