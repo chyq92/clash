@@ -25,6 +25,10 @@ DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,opensnow.com
 DOMAIN-SUFFIX,kickstarter.com
 
+DOMAIN-SUFFIX,yfsp.tv
+DOMAIN-SUFFIX,iyf.tv
+DOMAIN-SUFFIX,aiyifan.tv
+
 # 小说漫画
 DOMAIN-KEYWORD,notion
 DOMAIN-SUFFIX,sto.cx
