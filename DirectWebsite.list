@@ -10,6 +10,14 @@ DOMAIN-SUFFIX,qnap.com
 DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,myqnapcloud.io
 
+# Adobe
+# DOMAIN-SUFFIX,adobe.com
+# DOMAIN-SUFFIX,adobe.io
+# DOMAIN-SUFFIX,adobecces.com
+# DOMAIN-SUFFIX,adobeoobe.com
+# DOMAIN-SUFFIX,adobelogin.com
+# DOMAIN-SUFFIX,adobe-identity.com
+
 DOMAIN-SUFFIX,dell.com
 DOMAIN,dsadata.intel.com
 DOMAIN-SUFFIX,mcafee.com
@@ -26,8 +34,6 @@ DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pushbulletusercontent.com
 DOMAIN-SUFFIX,duolingo.com
-DOMAIN-SUFFIX,adobe.com
-DOMAIN-SUFFIX,adobe.io
 # DOMAIN-SUFFIX,cloudflare.com
 
 DOMAIN-SUFFIX,lencr.org
