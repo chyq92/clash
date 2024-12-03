@@ -1,30 +1,17 @@
 # 内容：常用国外网站
 
-# reddit
-DOMAIN-SUFFIX,redditstatic.com
-DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,redditmedia.com
-DOMAIN-SUFFIX,redditspace.com
-
 # weather.com
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,w-x.co
 
-# quora
-DOMAIN-SUFFIX,quora.com
-DOMAIN-SUFFIX,quoracdn.net
-
 DOMAIN-SUFFIX,chrome.cloudflare-dns.com
-DOMAIN-SUFFIX,leetcode.com
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,geeksforgeeks.org
-DOMAIN-SUFFIX,w3schools.com
-
 DOMAIN-SUFFIX,opensnow.com
 DOMAIN-SUFFIX,kickstarter.com
 
+# 爱一帆
 DOMAIN-SUFFIX,yfsp.tv
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,aiyifan.tv
