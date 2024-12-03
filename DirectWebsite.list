@@ -5,19 +5,6 @@ DOMAIN-SUFFIX,eset.com
 DOMAIN-SUFFIX,eset.systems
 DOMAIN-SUFFIX,e5.sk
 
-# QNAP
-DOMAIN-SUFFIX,qnap.com
-DOMAIN-SUFFIX,myqnapcloud.com
-DOMAIN-SUFFIX,myqnapcloud.io
-
-# Adobe
-# DOMAIN-SUFFIX,adobe.com
-# DOMAIN-SUFFIX,adobe.io
-# DOMAIN-SUFFIX,adobecces.com
-# DOMAIN-SUFFIX,adobeoobe.com
-# DOMAIN-SUFFIX,adobelogin.com
-# DOMAIN-SUFFIX,adobe-identity.com
-
 DOMAIN-SUFFIX,dell.com
 DOMAIN,dsadata.intel.com
 DOMAIN-SUFFIX,mcafee.com
