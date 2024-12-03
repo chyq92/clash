@@ -1,0 +1,15 @@
+# 内容：常用代码网站
+
+# reddit
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditspace.com
+
+# quora
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,quoracdn.net
+
+DOMAIN-SUFFIX,leetcode.com
+DOMAIN-SUFFIX,geeksforgeeks.org
+DOMAIN-SUFFIX,w3schools.com
