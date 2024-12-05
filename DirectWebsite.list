@@ -5,6 +5,11 @@ DOMAIN-SUFFIX,eset.com
 DOMAIN-SUFFIX,eset.systems
 DOMAIN-SUFFIX,e5.sk
 
+# philips
+DOMAIN-SUFFIX,philips.com
+DOMAIN-SUFFIX,philips.112.2o7.net
+DOMAIN-SUFFIX,philips-healthsuite.com
+
 DOMAIN-SUFFIX,dell.com
 DOMAIN,dsadata.intel.com
 DOMAIN-SUFFIX,mcafee.com
