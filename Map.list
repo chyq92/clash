@@ -1,6 +1,7 @@
 # 内容：地图
 
 DOMAIN-SUFFIX,garmin.com
+DOMAIN-SUFFIX,garmincdn.com
 DOMAIN-SUFFIX,inreachapp.com
 DOMAIN-SUFFIX,maps.me
 DOMAIN-SUFFIX,mapbox.com
