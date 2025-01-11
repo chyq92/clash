@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,kickstarter.com
 #DOMAIN-SUFFIX,azureedge.net
 DOMAIN,osm21.azureedge.net
 DOMAIN,topocache20.azureedge.net
+DOMAIN,services.digitalglobe.com
+DOMAIN,app-analytics-services.com
 
 # 爱一帆
 DOMAIN-SUFFIX,yfsp.tv
