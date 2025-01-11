@@ -11,7 +11,9 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,opensnow.com
 DOMAIN-SUFFIX,kickstarter.com
-DOMAIN-SUFFIX,azureedge.net
+#DOMAIN-SUFFIX,azureedge.net
+DOMAIN,osm21.azureedge.net
+DOMAIN,topocache20.azureedge.net
 
 # 爱一帆
 DOMAIN-SUFFIX,yfsp.tv
