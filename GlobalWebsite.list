@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,w-x.co
 
+DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,chrome.cloudflare-dns.com
 DOMAIN-SUFFIX,dns.cloudflare.com
 DOMAIN-SUFFIX,vivaldi.com
@@ -11,7 +12,7 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,opensnow.com
 DOMAIN-SUFFIX,kickstarter.com
-#DOMAIN-SUFFIX,azureedge.net
+
 DOMAIN,osm21.azureedge.net
 DOMAIN,topocache20.azureedge.net
 DOMAIN,services.digitalglobe.com
