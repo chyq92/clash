@@ -38,3 +38,4 @@ DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,clicktale.net
 DOMAIN-SUFFIX,chatra.io
 #DOMAIN-SUFFIX,gravatar.com
+DOMAIN,api-gw.metadata.io
