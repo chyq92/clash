@@ -21,6 +21,7 @@ DOMAIN-KEYWORD,dynv6
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,fastly.jsdelivr.net
+DOMAIN,main.vscode-cdn.net
 
 DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,pushbullet.com
