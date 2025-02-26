@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-KEYWORD,ocsp
 DOMAIN-KEYWORD,dynv6
 DOMAIN-SUFFIX,dyndns.com
-DOMAIN-SUFFIX,v6.rocks
+# DOMAIN-SUFFIX,v6.rocks
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,fastly.jsdelivr.net
 DOMAIN,main.vscode-cdn.net
