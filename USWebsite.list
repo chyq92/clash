@@ -1,18 +1,5 @@
 # 内容：常用美国网站
 
-# bank & financial
-DOMAIN-SUFFIX,chase.com
-DOMAIN-SUFFIX,fidelity.com
-DOMAIN-SUFFIX,americanexpress.com
-DOMAIN-SUFFIX,bankofamerica.com
-DOMAIN-SUFFIX,citi.com
-DOMAIN-SUFFIX,discover.com
-DOMAIN-SUFFIX,wellsfargo.com
-DOMAIN-SUFFIX,biltrewards.com
-DOMAIN-SUFFIX,robinhood.com
-DOMAIN-SUFFIX,creditkarma.com
-DOMAIN-KEYWORD,creditkarmacdn
-
 # amazon
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazon.dev
@@ -34,7 +21,4 @@ DOMAIN-SUFFIX,costco.com
 DOMAIN-KEYWORD,ebay
 
 DOMAIN-SUFFIX,ups.com
-# DOMAIN,settings-win.data.microsoft.com
-# DOMAIN,server.events.data.microsoft.com
-DOMAIN-KEYWORD,distill
 DOMAIN-KEYWORD,cloudflare
