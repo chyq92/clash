@@ -5,8 +5,6 @@ DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,w-x.co
 
 DOMAIN-SUFFIX,yahoo.com
-#DOMAIN-SUFFIX,chrome.cloudflare-dns.com
-#DOMAIN-SUFFIX,dns.cloudflare.com
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,wikipedia.org
@@ -25,6 +23,7 @@ DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,aiyifan.tv
 
 # 小说漫画
+DOMAIN-KEYWORD,distill
 DOMAIN-KEYWORD,notion
 DOMAIN-SUFFIX,sto.cx
 DOMAIN-SUFFIX,52shuku.vip
