@@ -5,16 +5,17 @@
 # DOMAIN-SUFFIX,bilanx.dcard.tw
 # DOMAIN-SUFFIX,shandianpic.com
 # DOMAIN,api.ttt.sh
-# DOMAIN,stk.protechts.net
 
 #喜马拉雅广告
 # DOMAIN-SUFFIX,ietheivaicai.com
+DOMAIN-SUFFIX,gepush.com
+DOMAIN-SUFFIX,getui.net
+DOMAIN-SUFFIX,getui.com
 
 #多邻国广告
 # DOMAIN-SUFFIX,app-ads-services.com 
 
 # AdGuard拦截
-
 # Google
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN,adservice.google.com
