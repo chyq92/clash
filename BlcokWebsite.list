@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,clarity.ms
 DOMAIN-KEYWORD,cedexis
 DOMAIN-KEYWORD,hotjar
 
-广告
+# 广告
 DOMAIN,a.magsrv.com
 DOMAIN,a.pemsrv.com
 
