@@ -10,29 +10,38 @@ DOMAIN-SUFFIX,philips.com
 DOMAIN-SUFFIX,philips.112.2o7.net
 DOMAIN-SUFFIX,philips-healthsuite.com
 
+# time
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-KEYWORD,ocsp
+
+# 电脑
 DOMAIN-SUFFIX,dell.com
 DOMAIN,dsadata.intel.com
 DOMAIN-SUFFIX,mcafee.com
 DOMAIN-SUFFIX,hp.com
 
-DOMAIN-SUFFIX,pool.ntp.org
-DOMAIN-KEYWORD,ocsp
+# pushbullet
+DOMAIN-SUFFIX,pushbullet.com
+DOMAIN-SUFFIX,pushbulletusercontent.com
+
+# cdn
+DOMAIN,cdn.jsdelivr.net
+DOMAIN,fastly.jsdelivr.net
+
+# vscode
+DOMAIN,main.vscode-cdn.net
+DOMAIN,default.exp-tas.com
+
+DOMAIN,stk.protechts.net
+DOMAIN,analyze-ng.standsapp.org
+DOMAIN-SUFFIX,lencr.org
+
 DOMAIN-KEYWORD,dynv6
 DOMAIN-SUFFIX,dyndns.com
 # DOMAIN-SUFFIX,v6.rocks
-DOMAIN,cdn.jsdelivr.net
-DOMAIN,fastly.jsdelivr.net
-DOMAIN,main.vscode-cdn.net
-DOMAIN,default.exp-tas.com
-DOMAIN,stk.protechts.net
-
 DOMAIN-SUFFIX,quark.cn
-DOMAIN-SUFFIX,pushbullet.com
-DOMAIN-SUFFIX,pushbulletusercontent.com
 DOMAIN-SUFFIX,duolingo.com
 # DOMAIN-SUFFIX,rpt-cdxcn.com
-
-DOMAIN-SUFFIX,lencr.org
 
 # DOMAIN,crl.verisign.com
 # DOMAIN-SUFFIX,clicktale.net
