@@ -13,7 +13,10 @@ DOMAIN-SUFFIX,kickstarter.com
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,adspower.net
 
+# AdGuard Home
 DOMAIN,dns10.quad9.net
+DOMAIN-SUFFIX,ghostery.com
+
 # DOMAIN,osm21.azureedge.net
 # DOMAIN,topocache20.azureedge.net
 # DOMAIN,services.digitalglobe.com
