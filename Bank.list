@@ -1,7 +1,7 @@
 # 内容： 含个人信息的网站
 
 # bank & financial
-DOMAIN-SUFFIX,chase.com
+DOMAIN-KEYWORD,chase
 DOMAIN-SUFFIX,fidelity.com
 DOMAIN-SUFFIX,americanexpress.com
 DOMAIN-SUFFIX,bankofamerica.com
@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,biltrewards.com
 DOMAIN-SUFFIX,robinhood.com
 DOMAIN-SUFFIX,creditkarma.com
 DOMAIN-KEYWORD,creditkarmacdn
+DOMAIN-KEYWORD,intuit
