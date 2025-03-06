@@ -28,14 +28,13 @@ DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pushbulletusercontent.com
 DOMAIN-SUFFIX,duolingo.com
-DOMAIN-KEYWORD,cedexis
+# DOMAIN-KEYWORD,cedexis
 DOMAIN-SUFFIX,rpt-cdxcn.com
 
 DOMAIN-SUFFIX,lencr.org
 DOMAIN,default.exp-tas.com
 DOMAIN,crl.verisign.com
-DOMAIN-SUFFIX,hotjar.com
-DOMAIN-SUFFIX,hotjar.io
+# DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,clicktale.net
 DOMAIN-SUFFIX,chatra.io
 #DOMAIN-SUFFIX,gravatar.com
