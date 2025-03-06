@@ -13,15 +13,16 @@ DOMAIN-SUFFIX,kickstarter.com
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,adspower.net
 
-DOMAIN,osm21.azureedge.net
-DOMAIN,topocache20.azureedge.net
-DOMAIN,services.digitalglobe.com
-DOMAIN,app-analytics-services.com
+# DOMAIN,osm21.azureedge.net
+# DOMAIN,topocache20.azureedge.net
+# DOMAIN,services.digitalglobe.com
+# DOMAIN,app-analytics-services.com
 
 # 爱一帆
 DOMAIN-SUFFIX,yfsp.tv
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,aiyifan.tv
+DOMAIN,dns10.quad9.net
 
 # 小说漫画
 DOMAIN-KEYWORD,distill
