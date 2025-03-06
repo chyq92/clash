@@ -4,7 +4,7 @@
 # DOMAIN-SUFFIX,ad.gt
 # DOMAIN-SUFFIX,bilanx.dcard.tw
 # DOMAIN-SUFFIX,shandianpic.com
-# DOMAIN,api.ttt.sh
+
 
 #喜马拉雅广告
 # DOMAIN-SUFFIX,ietheivaicai.com
@@ -23,6 +23,9 @@ DOMAIN,app-analytics-services.com
 
 # 微软
 DOMAIN-SUFFIX,clarity.ms
+
+# Linkedin
+DOMAIN,px.ads.linkedin.com
 
 DOMAIN-KEYWORD,cedexis
 DOMAIN-KEYWORD,hotjar
