@@ -32,8 +32,13 @@ DOMAIN,fastly.jsdelivr.net
 DOMAIN,main.vscode-cdn.net
 DOMAIN,default.exp-tas.com
 
+# Linkedin机器人验证
 DOMAIN,stk.protechts.net
+
+# AdBlock
 DOMAIN,analyze-ng.standsapp.org
+
+# Let's Encrypt
 DOMAIN-SUFFIX,lencr.org
 
 DOMAIN-KEYWORD,dynv6
@@ -41,10 +46,11 @@ DOMAIN-SUFFIX,dyndns.com
 # DOMAIN-SUFFIX,v6.rocks
 DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,duolingo.com
-# DOMAIN-SUFFIX,rpt-cdxcn.com
 
-# DOMAIN,crl.verisign.com
-# DOMAIN-SUFFIX,clicktale.net
-# DOMAIN-SUFFIX,chatra.io
-# DOMAIN-SUFFIX,gravatar.com
-# DOMAIN,api-gw.metadata.io
+DOMAIN,crl.verisign.com
+DOMAIN,api-gw.metadata.io
+
+DOMAIN-SUFFIX,clicktale.net
+DOMAIN-SUFFIX,chatra.io
+DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,rpt-cdxcn.com
