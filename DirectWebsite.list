@@ -23,19 +23,19 @@ DOMAIN-SUFFIX,dyndns.com
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,fastly.jsdelivr.net
 DOMAIN,main.vscode-cdn.net
+DOMAIN,default.exp-tas.com
+DOMAIN,stk.protechts.net
 
 DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pushbulletusercontent.com
 DOMAIN-SUFFIX,duolingo.com
-# DOMAIN-KEYWORD,cedexis
-DOMAIN-SUFFIX,rpt-cdxcn.com
+# DOMAIN-SUFFIX,rpt-cdxcn.com
 
 DOMAIN-SUFFIX,lencr.org
-DOMAIN,default.exp-tas.com
-DOMAIN,crl.verisign.com
-# DOMAIN-SUFFIX,hotjar.io
-DOMAIN-SUFFIX,clicktale.net
-DOMAIN-SUFFIX,chatra.io
-#DOMAIN-SUFFIX,gravatar.com
-DOMAIN,api-gw.metadata.io
+
+# DOMAIN,crl.verisign.com
+# DOMAIN-SUFFIX,clicktale.net
+# DOMAIN-SUFFIX,chatra.io
+# DOMAIN-SUFFIX,gravatar.com
+# DOMAIN,api-gw.metadata.io
