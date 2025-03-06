@@ -12,3 +12,10 @@ DOMAIN-SUFFIX,ietheivaicai.com
 
 #多邻国广告
 #DOMAIN-SUFFIX,app-ads-services.com 
+
+# AdGuard拦截
+DOMAIN-KEYWORD,hotjar
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN,adservice.google.com
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-KEYWORD,cedexis
