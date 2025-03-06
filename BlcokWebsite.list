@@ -28,6 +28,7 @@ DOMAIN-KEYWORD,cedexis
 DOMAIN-KEYWORD,hotjar
 
 # 广告
-DOMAIN,a.magsrv.com
-DOMAIN,s.pemsrv.com
+DOMAIN-SUFFIX,magsrv.com
+DOMAIN-SUFFIX,pemsrv.com
+DOMAIN-SUFFIX,bullionglidingscuttle.com
 
