@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,duolingo.com
 
 DOMAIN,crl.verisign.com
 DOMAIN,api-gw.metadata.io
+DOMAIN,api.ttt.sh
 
 DOMAIN-SUFFIX,clicktale.net
 DOMAIN-SUFFIX,chatra.io
