@@ -1,10 +1,8 @@
 # 内容：屏蔽网站
 
-# DOMAIN-SUFFIX,adnxs.com
 # DOMAIN-SUFFIX,ad.gt
 # DOMAIN-SUFFIX,bilanx.dcard.tw
 # DOMAIN-SUFFIX,shandianpic.com
-
 
 #喜马拉雅广告
 # DOMAIN-SUFFIX,ietheivaicai.com
@@ -34,4 +32,4 @@ DOMAIN-KEYWORD,hotjar
 DOMAIN-SUFFIX,magsrv.com
 DOMAIN-SUFFIX,pemsrv.com
 DOMAIN-SUFFIX,bullionglidingscuttle.com
-
+DOMAIN-SUFFIX,adnxs.com
