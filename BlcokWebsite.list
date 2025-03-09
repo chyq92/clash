@@ -18,12 +18,17 @@ DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN,adservice.google.com
 DOMAIN,app-analytics-services.com
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,www.googleadservices.com
+DOMAIN,www.google-analytics.com
+
 
 # 微软
 DOMAIN-SUFFIX,clarity.ms
 
 # Linkedin
 DOMAIN,px.ads.linkedin.com
+DOMAIN,snap.licdn.com
 
 DOMAIN-KEYWORD,cedexis
 DOMAIN-KEYWORD,hotjar
@@ -33,3 +38,5 @@ DOMAIN-SUFFIX,magsrv.com
 DOMAIN-SUFFIX,pemsrv.com
 DOMAIN-SUFFIX,bullionglidingscuttle.com
 DOMAIN-SUFFIX,adnxs.com
+DOMAIN,device-api.urbanairship.com
+
