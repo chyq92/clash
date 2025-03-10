@@ -8,7 +8,7 @@ DOMAIN,dpm.demdex.net
 DOMAIN-SUFFIX,us.v2.we-stats.com
 DOMAIN,assets.adobedtm.com
 DOMAIN,api2.branch.io
-DOMAIN-SUFFIX,segment.com
+# DOMAIN-SUFFIX,segment.com
 # DOMAIN-SUFFIX,appcenter.ms
 
 # fidelity
