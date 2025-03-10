@@ -8,7 +8,7 @@ DOMAIN,dpm.demdex.net
 DOMAIN-SUFFIX,us.v2.we-stats.com
 DOMAIN,assets.adobedtm.com
 DOMAIN,api2.branch.io
-DOMAIN,cdn-settings.segment.com
+DOMAIN-SUFFIX,segment.com
 # DOMAIN-SUFFIX,appcenter.ms
 
 # fidelity
@@ -18,11 +18,9 @@ DOMAIN,doh.cq0.co
 DOMAIN-SUFFIX,pendo.io
 DOMAIN-SUFFIX,glance.net
 DOMAIN,www.glancecdn.net
-# DOMAIN-SUFFIX,clicktale.net
-# DOMAIN,cdn.segment.com
+DOMAIN-SUFFIX,clicktale.net
 # DOMAIN,bat.bing.com
 # DOMAIN,www.googletagmanager.com
-# DOMAIN,www.google.com
 
 # chase
 DOMAIN-SUFFIX,chase.com
@@ -81,8 +79,9 @@ DOMAIN,bilt.edge.getunleash.io
 DOMAIN,bilt-prod-751317648.imgix.net
 DOMAIN,www.datocms-assets.com
 DOMAIN-SUFFIX,fullstory.com
-# DOMAIN,imagecdn.realty.com
-# sdk.iad-05.braze.com
+DOMAIN,sdk.iad-05.braze.com
+DOMAIN,imagecdn.realty.com
+
 
 # robinhood
 DOMAIN-SUFFIX,robinhood.com
