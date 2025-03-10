@@ -1,15 +1,97 @@
 # 内容： 含个人信息的网站
 
 # bank & financial
-DOMAIN-KEYWORD,chase
+DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN-SUFFIX,tt.omtrdc.net
+DOMAIN-SUFFIX,qualtrics.com
+DOMAIN,dpm.demdex.net
+DOMAIN-SUFFIX,us.v2.we-stats.com
+DOMAIN,assets.adobedtm.com
+DOMAIN,api2.branch.io
+DOMAIN,cdn-settings.segment.com
+# DOMAIN-SUFFIX,appcenter.ms
+
+# fidelity
 DOMAIN-SUFFIX,fidelity.com
+DOMAIN,r.3gl.net
+DOMAIN,doh.cq0.co
+DOMAIN-SUFFIX,pendo.io
+DOMAIN-SUFFIX,glance.net
+DOMAIN,www.glancecdn.net
+# DOMAIN-SUFFIX,clicktale.net
+# DOMAIN,cdn.segment.com
+# DOMAIN,bat.bing.com
+# DOMAIN,www.googletagmanager.com
+# DOMAIN,www.google.com
+
+# chase
+DOMAIN-SUFFIX,chase.com
+DOMAIN-SUFFIX,chasecdn.com
+DOMAIN-SUFFIX,mpulse.net
+DOMAIN-SUFFIX,zimperium.com
+DOMAIN,public.cobrowse.oraclecloud.com
+# DOMAIN-SUFFIX,googleapis.com
+# DOMAIN-SUFFIX,gstatic.com
+
+# AMEX
 DOMAIN-SUFFIX,americanexpress.com
+DOMAIN-SUFFIX,aexp-static.com
+DOMAIN,nexus.ensighten.com
+# DOMAIN,cdn.optimizely.com
+# DOMAIN,www.cdn-path.com
+# DOMAIN,ct.pinterest.com
+# DOMAIN,www.facebook.com
+# DOMAIN,sp.analytics.yahoo.com
+# DOMAIN,s.amazon-adsystem.com
+# DOMAIN,secure.adnxs.com
+# DOMAIN,pt.ispot.tv
+# DOMAIN,ct.contentsquare.net
+
+# BOA
 DOMAIN-SUFFIX,bankofamerica.com
+DOMAIN-SUFFIX,bac-assets.com
+DOMAIN,bankofamerica1.sc.omtrdc.net
+DOMAIN,awuseb.advanced-web-analytics.com
+DOMAIN,tags.tiqcdn.com
+
+# Citi
 DOMAIN-SUFFIX,citi.com
+DOMAIN-SUFFIX,citicards.com
+DOMAIN-SUFFIX,online-metrix.net
+# DOMAIN,p11.techlab-cdn.com
+# DOMAIN,code.jquery.com
+
+# discover
 DOMAIN-SUFFIX,discover.com
+DOMAIN-SUFFIX,discoverbank.com
+DOMAIN-SUFFIX,discovercard.com
+DOMAIN,report.dfs.glassboxdigital.io
+DOMAIN,msdk.us2.freshchat.com
+DOMAIN,browser-intake-datadoghq.com
+
+# Wells Fargo
 DOMAIN-SUFFIX,wellsfargo.com
+DOMAIN-SUFFIX,wf.com
+DOMAIN-SUFFIX,wellsfargomedia.com
+
+# Bilt
 DOMAIN-SUFFIX,biltrewards.com
+DOMAIN,bilt-rewards.stellate.sh
+DOMAIN,bilt.edge.getunleash.io
+DOMAIN,bilt-prod-751317648.imgix.net
+DOMAIN,www.datocms-assets.com
+DOMAIN-SUFFIX,fullstory.com
+# DOMAIN,imagecdn.realty.com
+# sdk.iad-05.braze.com
+
+# robinhood
 DOMAIN-SUFFIX,robinhood.com
+DOMAIN,api.sprig.com
+
+# Intuit
 DOMAIN-SUFFIX,creditkarma.com
 DOMAIN-KEYWORD,creditkarmacdn
-DOMAIN-KEYWORD,intuit
+DOMAIN,insights-collector.newrelic.com
+DOMAIN-SUFFIX,intuit.com
+DOMAIN,ck-content.imgix.net
+DOMAIN,ck-assets.imgix.net
