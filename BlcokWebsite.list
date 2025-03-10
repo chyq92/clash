@@ -16,22 +16,32 @@ DOMAIN-SUFFIX,getui.com
 # AdGuard拦截
 # Google
 DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
 DOMAIN,adservice.google.com
 DOMAIN,app-analytics-services.com
-DOMAIN,googleads.g.doubleclick.net
+# DOMAIN,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,doubleclick.net
 DOMAIN,www.googleadservices.com
 DOMAIN,www.google-analytics.com
 
-
 # 微软
 DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,bat.bing.com
 
 # Linkedin
 DOMAIN,px.ads.linkedin.com
 DOMAIN,snap.licdn.com
 
+# Yahoo
+DOMAIN,sp.analytics.yahoo.com
+
+# Amazon
+DOMAIN,s.amazon-adsystem.com
+
 DOMAIN-KEYWORD,cedexis
 DOMAIN-KEYWORD,hotjar
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,optimizely.com
 
 # 广告
 DOMAIN-SUFFIX,magsrv.com
@@ -39,4 +49,3 @@ DOMAIN-SUFFIX,pemsrv.com
 DOMAIN-SUFFIX,bullionglidingscuttle.com
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN,device-api.urbanairship.com
-
