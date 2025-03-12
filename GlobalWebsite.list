@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,opensnow.com
 DOMAIN-SUFFIX,kickstarter.com
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,adspower.net
+DOMAIN,wsapi.dealmoon.com
 
 # AdGuard Home
 DOMAIN,dns10.quad9.net
