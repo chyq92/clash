@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,dyndns.com
 # DOMAIN-SUFFIX,v6.rocks
 DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,duolingo.com
+DOMAIN,ping0.cc
 
 DOMAIN,crl.verisign.com
 DOMAIN,api-gw.metadata.io
