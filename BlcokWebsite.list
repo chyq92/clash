@@ -3,6 +3,21 @@
 # DOMAIN-SUFFIX,ad.gt
 # DOMAIN-SUFFIX,bilanx.dcard.tw
 # DOMAIN-SUFFIX,shandianpic.com
+DOMAIN,tytx.m.cn.miaozhen.com
+DOMAIN,v2.reachmax.cn
+
+# 友盟
+DOMAIN,ulogs.umengcloud.com
+DOMAIN,ulogs.umeng.com
+
+# 小红书
+DOMAIN,spider-tracker.xiaohongshu.com
+
+# 腾讯
+DOMAIN,tpstelemetry.tencent.com
+DOMAIN,otheve.beacon.qq.com
+DOMAIN,vr.gdt.qq.com
+DOMAIN,h.trace.qq.com
 
 #喜马拉雅广告
 # DOMAIN-SUFFIX,ietheivaicai.com
@@ -14,12 +29,13 @@ DOMAIN-SUFFIX,getui.com
 # DOMAIN-SUFFIX,app-ads-services.com 
 
 # AdGuard拦截
+DOMAIN,static.cloudflareinsights.com
+
 # Google
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN,adservice.google.com
 DOMAIN,app-analytics-services.com
-# DOMAIN,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN,www.googleadservices.com
 DOMAIN,www.google-analytics.com
