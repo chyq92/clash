@@ -6,10 +6,12 @@ DOMAIN-SUFFIX,tt.omtrdc.net
 DOMAIN-SUFFIX,qualtrics.com
 DOMAIN,dpm.demdex.net
 DOMAIN-SUFFIX,us.v2.we-stats.com
+DOMAIN-SUFFIX,datadoghq.com
 DOMAIN,assets.adobedtm.com
 DOMAIN,api2.branch.io
 # DOMAIN-SUFFIX,segment.com
 # DOMAIN-SUFFIX,appcenter.ms
+
 
 # fidelity
 DOMAIN-SUFFIX,fidelity.com
@@ -65,7 +67,6 @@ DOMAIN-SUFFIX,discoverbank.com
 DOMAIN-SUFFIX,discovercard.com
 DOMAIN,report.dfs.glassboxdigital.io
 DOMAIN,msdk.us2.freshchat.com
-DOMAIN,browser-intake-datadoghq.com
 
 # Wells Fargo
 DOMAIN-SUFFIX,wellsfargo.com
@@ -81,7 +82,6 @@ DOMAIN,www.datocms-assets.com
 DOMAIN-SUFFIX,fullstory.com
 DOMAIN,sdk.iad-05.braze.com
 DOMAIN,imagecdn.realty.com
-
 
 # robinhood
 DOMAIN-SUFFIX,robinhood.com
