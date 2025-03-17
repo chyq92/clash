@@ -13,6 +13,9 @@ DOMAIN,ulogs.umeng.com
 # 小红书
 DOMAIN,spider-tracker.xiaohongshu.com
 
+#迅雷
+DOMAIN,analysis-acc-ssl.xunlei.com
+
 # 腾讯
 DOMAIN,tpstelemetry.tencent.com
 DOMAIN,otheve.beacon.qq.com
@@ -31,6 +34,10 @@ DOMAIN-SUFFIX,getui.com
 
 # AdGuard拦截
 DOMAIN,static.cloudflareinsights.com
+DOMAIN-KEYWORD,cedexis
+DOMAIN-KEYWORD,hotjar
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,optimizely.com
 
 # Google
 DOMAIN-SUFFIX,gvt2.com
@@ -54,11 +61,6 @@ DOMAIN,sp.analytics.yahoo.com
 
 # Amazon
 DOMAIN,s.amazon-adsystem.com
-
-DOMAIN-KEYWORD,cedexis
-DOMAIN-KEYWORD,hotjar
-DOMAIN-SUFFIX,segment.com
-DOMAIN-SUFFIX,optimizely.com
 
 # 广告
 DOMAIN-SUFFIX,magsrv.com
