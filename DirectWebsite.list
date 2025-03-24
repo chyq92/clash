@@ -36,7 +36,7 @@ DOMAIN,default.exp-tas.com
 DOMAIN,stk.protechts.net
 
 # AdBlock
-DOMAIN,analyze-ng.standsapp.org
+DOMAIN-SUFFIX,standsapp.org
 
 # Let's Encrypt
 DOMAIN-SUFFIX,lencr.org
