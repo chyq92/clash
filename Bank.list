@@ -2,6 +2,7 @@
 
 # bank & financial
 DOMAIN-SUFFIX,ingest.sentry.io
+# DOMAIN-SUFFIX,ingest.us.sentry.io
 DOMAIN-SUFFIX,tt.omtrdc.net
 DOMAIN-SUFFIX,qualtrics.com
 DOMAIN,dpm.demdex.net
