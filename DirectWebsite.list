@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,e5.sk
 DOMAIN-SUFFIX,philips.com
 DOMAIN-SUFFIX,philips.112.2o7.net
 DOMAIN-SUFFIX,philips-healthsuite.com
+DOMAIN-SUFFIX,api3.branch.io
+DOMAIN-SUFFIX,images.ctfassets.net
 
 # time
 DOMAIN-SUFFIX,pool.ntp.org
@@ -43,7 +45,6 @@ DOMAIN-SUFFIX,lencr.org
 
 DOMAIN-KEYWORD,dynv6
 DOMAIN-SUFFIX,dyndns.com
-# DOMAIN-SUFFIX,v6.rocks
 DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,ping0.cc
