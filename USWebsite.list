@@ -15,7 +15,7 @@ DOMAIN,rei.sc.omtrdc.net
 
 # shopping
 DOMAIN-SUFFIX,ultramobile.com
-DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+# DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,keepa.com
 DOMAIN-SUFFIX,costco.com
 DOMAIN-KEYWORD,ebay
