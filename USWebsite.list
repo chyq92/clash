@@ -1,12 +1,15 @@
 # 内容：常用美国网站
 
 # amazon
-DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,amazon.dev
-DOMAIN-SUFFIX,media-amazon.com
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,a2z.com
-DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN-KEWORD,amazon
+DOMAIN-KEWORD,aws
+# DOMAIN-SUFFIX,amazon.dev
+# DOMAIN-SUFFIX,media-amazon.com
+# DOMAIN-SUFFIX,amazonaws.com
+# DOMAIN-SUFFIX,a2z.com
+# DOMAIN-SUFFIX,ssl-images-amazon.com
+# DOMAIN-SUFFIX,amazon
+DOMAIN-SUFFIX,cloudfront.net
 
 # REI
 DOMAIN-SUFFIX,rei.com
