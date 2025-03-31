@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,images.ctfassets.net
 # time
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-KEYWORD,ocsp
+DST-PORT,123
 
 # 电脑
 DOMAIN-SUFFIX,dell.com
