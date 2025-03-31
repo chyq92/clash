@@ -1,8 +1,8 @@
 # 内容：常用美国网站
 
 # amazon
-DOMAIN-KEWORD,amazon
-DOMAIN-KEWORD,aws
+DOMAIN-KEYWORD,amazon
+DOMAIN-KEYWORD,aws
 # DOMAIN-SUFFIX,amazon.dev
 # DOMAIN-SUFFIX,media-amazon.com
 # DOMAIN-SUFFIX,amazonaws.com
