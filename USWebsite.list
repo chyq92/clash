@@ -12,13 +12,20 @@ DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,rei.com
 DOMAIN,rei.sc.omtrdc.net
 
+# Newegg
+DOMAIN-KEYWORD,newegg
+DOMAIN,sealserver.trustwave.com
+DOMAIN,content.syndigo.com
+DOMAIN,lookups.api.osano.com
+DOMAIN-SUFFIX,syfpayments.com
+
 # shopping
 DOMAIN-SUFFIX,ultramobile.com
 DOMAIN-SUFFIX,keepa.com
 DOMAIN-SUFFIX,costco.com
 DOMAIN-KEYWORD,ebay
-DOMAIN-SUFFIX,newegg.com
-DOMAIN-SUFFIX,neweggimages.com
+DOMAIN-SUFFIX,affirm.com
+
 
 DOMAIN-SUFFIX,ups.com
 DOMAIN-KEYWORD,cloudflare
