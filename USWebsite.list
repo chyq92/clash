@@ -16,8 +16,12 @@ DOMAIN,rei.sc.omtrdc.net
 DOMAIN-KEYWORD,newegg
 DOMAIN,sealserver.trustwave.com
 DOMAIN,content.syndigo.com
-DOMAIN,lookups.api.osano.com
+DOMAIN-SUFFIX,osano.com
 DOMAIN-SUFFIX,syfpayments.com
+DOMAIN-SUFFIX,syf.com
+DOMAIN-SUFFIX,syfpos.com
+DOMAIN,content.jwplatform.com
+DOMAIN,cdn-ws.turnto.com
 
 # shopping
 DOMAIN-SUFFIX,ultramobile.com
@@ -25,7 +29,8 @@ DOMAIN-SUFFIX,keepa.com
 DOMAIN-SUFFIX,costco.com
 DOMAIN-KEYWORD,ebay
 DOMAIN-SUFFIX,affirm.com
-
+DOMAIN-SUFFIX,quadpay.com
 
 DOMAIN-SUFFIX,ups.com
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-SUFFIX,us.zip.co
