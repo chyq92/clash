@@ -21,8 +21,8 @@ DOMAIN-SUFFIX,hostloc.com
 # AdGuard Home
 DOMAIN,dns10.quad9.net
 DOMAIN-SUFFIX,ghostery.com
-IP-CIDR,9.9.9.10,no-resolve
-IP-CIDR,149.112.112.10,no-resolve
+IP-CIDR,9.9.9.10/32,no-resolve
+IP-CIDR,149.112.112.10/32,no-resolve
 
 # DOMAIN,osm21.azureedge.net
 # DOMAIN,topocache20.azureedge.net
