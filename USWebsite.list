@@ -26,6 +26,10 @@ DOMAIN-SUFFIX,syfpos.com
 DOMAIN,content.jwplatform.com
 DOMAIN,cdn-ws.turnto.com
 
+# 一亩三分地
+DOMAIN-SUFFIX,1p3a.com
+DOMAIN-SUFFIX,1point3acres.com
+
 # shopping
 DOMAIN-SUFFIX,ultramobile.com
 DOMAIN-SUFFIX,keepa.com
