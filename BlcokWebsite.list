@@ -13,8 +13,12 @@ DOMAIN,ulogs.umeng.com
 # 小红书
 DOMAIN,spider-tracker.xiaohongshu.com
 
-#迅雷
+# 迅雷
 DOMAIN,analysis-acc-ssl.xunlei.com
+
+# 百度
+DOMAIN,hm.baidu.com
+DOMAIN,zz.bdstatic.com
 
 # 腾讯
 DOMAIN,tpstelemetry.tencent.com
