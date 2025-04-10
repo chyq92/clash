@@ -7,8 +7,8 @@ DOMAIN,tytx.m.cn.miaozhen.com
 DOMAIN,v2.reachmax.cn
 
 # 友盟
-DOMAIN,ulogs.umengcloud.com
-DOMAIN,ulogs.umeng.com
+DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,umeng.com
 
 # 小红书
 DOMAIN,spider-tracker.xiaohongshu.com
