@@ -34,7 +34,8 @@ DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,getui.com
 
 #多邻国广告
-# DOMAIN-SUFFIX,app-ads-services.com 
+# DOMAIN-SUFFIX,app-ads-services.com
+DOMAIN-SUFFIX,unity3d.com
 
 # AdGuard拦截
 DOMAIN,static.cloudflareinsights.com
