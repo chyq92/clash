@@ -27,14 +27,18 @@ DOMAIN,vr.gdt.qq.com
 DOMAIN,h.trace.qq.com
 DOMAIN,rmonitor.qq.com
 
-#喜马拉雅广告
-# DOMAIN-SUFFIX,ietheivaicai.com
+# 喜马拉雅
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,getui.com
 
-#多邻国广告
-# DOMAIN-SUFFIX,app-ads-services.com
+# 头条
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+
+# 知乎
+DOMAIN,zhihu-web-analytics.zhihu.com
+
+# 多邻国广告
 DOMAIN-SUFFIX,unity3d.com
 
 # AdGuard拦截
@@ -73,3 +77,4 @@ DOMAIN-SUFFIX,pemsrv.com
 DOMAIN-SUFFIX,bullionglidingscuttle.com
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,urbanairship.com
+DOMAIN,app-measurement.com
