@@ -9,11 +9,14 @@ DOMAIN-SUFFIX,cloudfront.net
 # DOMAIN-SUFFIX,amazonaws.com
 # DOMAIN-SUFFIX,a2z.com
 # DOMAIN-SUFFIX,ssl-images-amazon.com
-# DOMAIN-SUFFIX,amazon
 
 # REI
 DOMAIN-SUFFIX,rei.com
 DOMAIN,rei.sc.omtrdc.net
+
+# Walmart
+DOMAIN-SUFFIX,walmartimages.com
+DOMAIN-SUFFIX,walmart.com
 
 # Newegg
 DOMAIN-KEYWORD,newegg
