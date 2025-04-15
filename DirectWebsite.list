@@ -41,8 +41,9 @@ DOMAIN,stk.protechts.net
 # AdBlock
 DOMAIN-SUFFIX,standsapp.org
 
-# Let's Encrypt
+# SSL证书
 DOMAIN-SUFFIX,lencr.org
+DOMAIN,cdp.rapidssl.com
 
 DOMAIN-KEYWORD,dynv6
 DOMAIN-SUFFIX,dyndns.com
