@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN,spider-tracker.xiaohongshu.com
 
 # 迅雷
-DOMAIN,analysis-acc-ssl.xunlei.com
+# DOMAIN,analysis-acc-ssl.xunlei.com
 
 # 百度
 DOMAIN,hm.baidu.com
