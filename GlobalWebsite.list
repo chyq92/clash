@@ -29,6 +29,9 @@ IP-CIDR,149.112.112.10/32,no-resolve
 # DOMAIN,topocache20.azureedge.net
 # DOMAIN,services.digitalglobe.com
 
+DOMAIN-SUFFIX,redsift.cloud
+DOMAIN,public.sifts.io
+
 # 爱一帆
 DOMAIN-SUFFIX,yfsp.tv
 DOMAIN-SUFFIX,iyf.tv
