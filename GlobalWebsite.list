@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,opensnow.com
 DOMAIN-SUFFIX,kickstarter.com
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,adspower.net
-DOMAIN,wsapi.dealmoon.com
+DOMAIN-SUFFIX,dealmoon.com
 
 # 论坛
 DOMAIN-SUFFIX,v2ex.com
