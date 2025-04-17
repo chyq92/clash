@@ -36,7 +36,7 @@ DOMAIN,main.vscode-cdn.net
 DOMAIN,default.exp-tas.com
 
 # Linkedin机器人验证
-DOMAIN,stk.protechts.net
+DOMAIN-SUFFIX,protechts.net
 
 # AdBlock
 DOMAIN-SUFFIX,standsapp.org
