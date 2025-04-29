@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,quadpay.com
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,cloudns.net
 DOMAIN-SUFFIX,redsift.cloud
+DOMAIN,public.sifts.io
 
 DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,usps.com
