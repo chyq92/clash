@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,ping0.cc
 
+DOMAIN,api.flightyapp.com
 DOMAIN,crl.verisign.com
 DOMAIN,api.ttt.sh
 
