@@ -5,7 +5,8 @@
 # DOMAIN-SUFFIX,shandianpic.com
 DOMAIN,tytx.m.cn.miaozhen.com
 DOMAIN,v2.reachmax.cn
-DOMAIN,launches.appsflyer.com 
+DOMAIN,launches.appsflyer.com
+DOMAIN-SUFFIX,metadata.io
 
 # 友盟
 DOMAIN-SUFFIX,umengcloud.com
