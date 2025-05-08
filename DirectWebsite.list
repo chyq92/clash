@@ -52,7 +52,6 @@ DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,ping0.cc
 
 DOMAIN,crl.verisign.com
-DOMAIN,api-gw.metadata.io
 DOMAIN,api.ttt.sh
 
 DOMAIN-SUFFIX,clicktale.net
