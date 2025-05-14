@@ -31,14 +31,6 @@ IP-CIDR,149.112.112.10/32,no-resolve
 # DOMAIN,topocache20.azureedge.net
 # DOMAIN,services.digitalglobe.com
 
-
-# 爱一帆
-DOMAIN-SUFFIX,yfsp.tv
-DOMAIN-SUFFIX,iyf.tv
-DOMAIN-SUFFIX,aiyifan.tv
-DOMAIN-SUFFIX,anygate.vip
-DOMAIN-SUFFIX,pipecdn.vip
-
 # 小说漫画
 DOMAIN-KEYWORD,distill
 DOMAIN-KEYWORD,notion
