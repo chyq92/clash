@@ -4,10 +4,11 @@
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,a2z.com
 # DOMAIN-SUFFIX,amazon.dev
 # DOMAIN-SUFFIX,media-amazon.com
 # DOMAIN-SUFFIX,amazonaws.com
-# DOMAIN-SUFFIX,a2z.com
+
 # DOMAIN-SUFFIX,ssl-images-amazon.com
 
 # REI
