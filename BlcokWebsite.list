@@ -45,6 +45,9 @@ DOMAIN,zhihu-web-analytics.zhihu.com
 # 多邻国广告
 DOMAIN-SUFFIX,unity3d.com
 
+# Meta
+DOMAIN,graph.facebook.com
+
 # AdGuard拦截
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-KEYWORD,cedexis
