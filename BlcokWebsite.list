@@ -5,83 +5,93 @@
 # DOMAIN-SUFFIX,shandianpic.com
 DOMAIN,tytx.m.cn.miaozhen.com
 DOMAIN,v2.reachmax.cn
-DOMAIN-SUFFIX,metadata.io
-
-# B站
-# DOMAIN,launches.appsflyer.com
-
-# 友盟
-DOMAIN-SUFFIX,umengcloud.com
-DOMAIN-SUFFIX,umeng.com
-
-# 小红书
-DOMAIN,spider-tracker.xiaohongshu.com
-
-# 迅雷
-# DOMAIN,analysis-acc-ssl.xunlei.com
 
 # 百度
 DOMAIN,hm.baidu.com
 DOMAIN,zz.bdstatic.com
 
+# B站
+# DOMAIN,launches.appsflyer.com
+
+# 多邻国广告
+DOMAIN-SUFFIX,unity3d.com
+
+# 淘宝
+DOMAIN-SUFFIX,tanx.com
+DOMAIN,amdc.m.taobao.com
+
 # 腾讯
 # DOMAIN,tpstelemetry.tencent.com
 # DOMAIN,otheve.beacon.qq.com
+DOMAIN,aeventlog.beacon.qq.com
 DOMAIN,vr.gdt.qq.com
 DOMAIN,h.trace.qq.com
 DOMAIN,rmonitor.qq.com
+
+# 头条
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+
+# 微薄
+DOMAIN,adstrategy.biz.weibo.com
+
+# 小红书
+DOMAIN,spider-tracker.xiaohongshu.com
 
 # 喜马拉雅
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,getui.com
 
-# 头条
-DOMAIN-SUFFIX,pglstatp-toutiao.com
+# 迅雷
+# DOMAIN,analysis-acc-ssl.xunlei.com
+
+# 友盟
+DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,umeng.com
 
 # 知乎
 DOMAIN,zhihu-web-analytics.zhihu.com
 
-# 多邻国广告
-DOMAIN-SUFFIX,unity3d.com
-
-# Meta
-DOMAIN,graph.facebook.com
-
-# AdGuard拦截
-DOMAIN,static.cloudflareinsights.com
-DOMAIN-KEYWORD,cedexis
-DOMAIN-KEYWORD,hotjar
-DOMAIN-SUFFIX,segment.com
-DOMAIN-SUFFIX,optimizely.com
+# Amazon
+DOMAIN-SUFFIX,amazon-adsystem.com
 
 # Google
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,doubleclick.net
 DOMAIN,adservice.google.com
 DOMAIN,app-analytics-services.com
-DOMAIN-SUFFIX,doubleclick.net
 DOMAIN,www.googleadservices.com
 DOMAIN,www.google-analytics.com
-
-# 微软
-DOMAIN-SUFFIX,clarity.ms
-DOMAIN-SUFFIX,bat.bing.com
 
 # Linkedin
 DOMAIN,px.ads.linkedin.com
 DOMAIN,snap.licdn.com
 
+# Meta
+DOMAIN,graph.facebook.com
+
+# Microsoft
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,bat.bing.com
+
 # Yahoo
 DOMAIN,sp.analytics.yahoo.com
 
-# Amazon
-DOMAIN,s.amazon-adsystem.com
+# AdGuard拦截
+DOMAIN,static.cloudflareinsights.com
+DOMAIN,d-gm.mmstat.com
+DOMAIN,app-measurement.com
+DOMAIN-KEYWORD,cedexis
+DOMAIN-KEYWORD,hotjar
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,metadata.io
+DOMAIN-SUFFIX,urbanairship.com
 
 # 广告
 DOMAIN-SUFFIX,magsrv.com
 DOMAIN-SUFFIX,pemsrv.com
 DOMAIN-SUFFIX,bullionglidingscuttle.com
 DOMAIN-SUFFIX,adnxs.com
-DOMAIN-SUFFIX,urbanairship.com
-DOMAIN,app-measurement.com
