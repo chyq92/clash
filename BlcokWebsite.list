@@ -69,7 +69,7 @@ DOMAIN,px.ads.linkedin.com
 DOMAIN,snap.licdn.com
 
 # Meta
-DOMAIN,graph.facebook.com
+# DOMAIN,graph.facebook.com
 
 # Microsoft
 DOMAIN-SUFFIX,clarity.ms
