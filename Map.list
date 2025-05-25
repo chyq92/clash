@@ -1,8 +1,12 @@
 # 内容：地图
 
+# Garmin
 DOMAIN-SUFFIX,garmin.com
 DOMAIN-SUFFIX,garmincdn.com
+DOMAIN,account-api.delorme.com
 DOMAIN-SUFFIX,inreachapp.com
+DOMAIN-KEYWORD,garmin
+
 DOMAIN-SUFFIX,maps.me
 DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,strava.com
