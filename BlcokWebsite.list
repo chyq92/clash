@@ -8,7 +8,8 @@ DOMAIN,v2.reachmax.cn
 
 # 百度
 DOMAIN,hm.baidu.com
-DOMAIN,zz.bdstatic.com
+DOMAIN,sp1.baidu.com
+# DOMAIN,zz.bdstatic.com
 
 # B站
 # DOMAIN,launches.appsflyer.com
@@ -28,7 +29,6 @@ DOMAIN,h.trace.qq.com
 # DOMAIN,rmonitor.qq.com
 # DOMAIN,aeventlog.beacon.qq.com
 # DOMAIN,vr.gdt.qq.com
-
 
 # 头条
 DOMAIN-SUFFIX,pglstatp-toutiao.com
@@ -84,13 +84,14 @@ DOMAIN,sp.analytics.yahoo.com
 # AdGuard拦截
 DOMAIN,static.cloudflareinsights.com
 DOMAIN,d-gm.mmstat.com
+DOMAIN,toblog.ctobsnssdk.com
 DOMAIN-KEYWORD,cedexis
 DOMAIN-KEYWORD,hotjar
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,metadata.io
-DOMAIN-SUFFIX,urbanairship.com
+# DOMAIN-SUFFIX,urbanairship.com
 
 # 广告
 DOMAIN-SUFFIX,magsrv.com
