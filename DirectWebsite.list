@@ -33,7 +33,7 @@ DOMAIN,cdn.jsdelivr.net
 DOMAIN,fastly.jsdelivr.net
 
 # vscode
-DOMAIN,main.vscode-cdn.net
+DOMAIN-KEYWORD,vscode
 DOMAIN,default.exp-tas.com
 
 # Linkedin机器人验证
