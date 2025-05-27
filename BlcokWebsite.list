@@ -38,6 +38,7 @@ DOMAIN,adstrategy.biz.weibo.com
 
 # 小红书
 DOMAIN,spider-tracker.xiaohongshu.com
+DOMAIN,open.kuaishouzt.com
 
 # 喜马拉雅
 DOMAIN-SUFFIX,gepush.com
