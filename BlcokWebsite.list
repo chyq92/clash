@@ -38,6 +38,12 @@ DOMAIN,adstrategy.biz.weibo.com
 
 # 小红书
 DOMAIN,spider-tracker.xiaohongshu.com
+DOMAIN,apm-native.xiaohongshu.com
+DOMAIN,lng.xiaohongshu.com
+DOMAIN,t2.xiaohongshu.com
+DOMAIN,edith.xiaohongshu.com
+DOMAIN,modelportrait.xiaohongshu.com
+DOMAIN,as.xiaohongshu.com
 DOMAIN,open.kuaishouzt.com
 
 # 喜马拉雅
