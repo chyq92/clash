@@ -12,7 +12,7 @@ DOMAIN,sp1.baidu.com
 # DOMAIN,zz.bdstatic.com
 
 # B站
-# DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,appsflyer.com
 
 # 多邻国广告
 DOMAIN-SUFFIX,unity3d.com
