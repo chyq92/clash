@@ -3,7 +3,6 @@
 # DOMAIN-SUFFIX,ad.gt
 # DOMAIN-SUFFIX,bilanx.dcard.tw
 # DOMAIN-SUFFIX,shandianpic.com
-DOMAIN,tytx.m.cn.miaozhen.com
 DOMAIN,v2.reachmax.cn
 
 # 百度
@@ -46,6 +45,7 @@ DOMAIN,edith.xiaohongshu.com
 DOMAIN,modelportrait.xiaohongshu.com
 DOMAIN,as.xiaohongshu.com
 DOMAIN,open.kuaishouzt.com
+DOMAIN-SUFFIX,cn.miaozhen.com
 
 # 喜马拉雅
 DOMAIN-SUFFIX,gepush.com
