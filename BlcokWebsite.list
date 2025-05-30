@@ -62,6 +62,9 @@ DOMAIN-SUFFIX,umeng.com
 # 知乎
 DOMAIN,zhihu-web-analytics.zhihu.com
 
+# Adobe
+DOMAIN,dpm.demdex.net
+
 # Amazon
 DOMAIN-SUFFIX,amazon-adsystem.com
 
