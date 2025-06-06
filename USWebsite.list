@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,forter.com
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,cloudns.net
 DOMAIN-SUFFIX,redsift.cloud
+DOMAIN,redsift.reporting.hardenize.com
 DOMAIN,public.sifts.io
 
 DOMAIN-SUFFIX,ups.com
