@@ -45,7 +45,7 @@ DOMAIN,edith.xiaohongshu.com
 DOMAIN,modelportrait.xiaohongshu.com
 DOMAIN,as.xiaohongshu.com
 DOMAIN,open.kuaishouzt.com
-DOMAIN-SUFFIX,cn.miaozhen.com
+DOMAIN-SUFFIX,miaozhen.com
 
 # 喜马拉雅
 DOMAIN-SUFFIX,gepush.com
@@ -97,14 +97,15 @@ DOMAIN,sp.analytics.yahoo.com
 
 # AdGuard拦截
 DOMAIN,static.cloudflareinsights.com
-DOMAIN,d-gm.mmstat.com
 DOMAIN,toblog.ctobsnssdk.com
+DOMAIN,b.6sc.co
 DOMAIN-KEYWORD,cedexis
 DOMAIN-KEYWORD,hotjar
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,optimizely.com
-DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,metadata.io
+DOMAIN-SUFFIX,beizi.biz
+DOMAIN-SUFFIX,mmstat.com
 # DOMAIN-SUFFIX,urbanairship.com
 
 # 广告
