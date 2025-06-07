@@ -5,15 +5,12 @@ DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,a2z.com
-# DOMAIN-SUFFIX,amazon.dev
-# DOMAIN-SUFFIX,media-amazon.com
-# DOMAIN-SUFFIX,amazonaws.com
-
-# DOMAIN-SUFFIX,ssl-images-amazon.com
 
 # REI
 DOMAIN-SUFFIX,rei.com
 DOMAIN,rei.sc.omtrdc.net
+DOMAIN,recs.richrelevance.com
+DOMAIN,risk-api.inauth.com
 
 # Walmart
 DOMAIN-SUFFIX,walmartimages.com
@@ -49,13 +46,16 @@ DOMAIN-KEYWORD,ebay
 DOMAIN-SUFFIX,affirm.com
 DOMAIN-SUFFIX,quadpay.com
 DOMAIN-SUFFIX,forter.com
+DOMAIN-SUFFIX,klarna.com
 
-## 网络
-DOMAIN-KEYWORD,cloudflare
-DOMAIN-SUFFIX,cloudns.net
+# redsift
 DOMAIN-SUFFIX,redsift.cloud
 DOMAIN,redsift.reporting.hardenize.com
 DOMAIN,public.sifts.io
+
+# 网络
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-SUFFIX,cloudns.net
 
 DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,usps.com
