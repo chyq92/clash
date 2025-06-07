@@ -54,9 +54,10 @@ DOMAIN,redsift.reporting.hardenize.com
 DOMAIN,public.sifts.io
 
 # 网络
-DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,cloudns.net
 
 DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,usps.com
 DOMAIN-SUFFIX,us.zip.co
+
+DOMAIN-SUFFIX,manhuagui.com
