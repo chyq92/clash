@@ -20,7 +20,7 @@ DST-PORT,123
 
 # 电脑
 DOMAIN-SUFFIX,dell.com
-# DOMAIN-SUFFIX,intel.com
+DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,mcafee.com
 DOMAIN-SUFFIX,hp.com
 
