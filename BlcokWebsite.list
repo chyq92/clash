@@ -97,7 +97,7 @@ DOMAIN,sp.analytics.yahoo.com
 
 # AdGuard拦截
 DOMAIN,static.cloudflareinsights.com
-DOMAIN,toblog.ctobsnssdk.com
+# DOMAIN,toblog.ctobsnssdk.com
 DOMAIN,b.6sc.co
 DOMAIN-KEYWORD,cedexis
 DOMAIN-KEYWORD,hotjar
@@ -106,7 +106,7 @@ DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,metadata.io
 DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,mmstat.com
-# DOMAIN-SUFFIX,urbanairship.com
+DOMAIN-SUFFIX,urbanairship.com
 
 # 广告
 DOMAIN-SUFFIX,magsrv.com
