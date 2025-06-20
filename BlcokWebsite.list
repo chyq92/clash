@@ -1,14 +1,13 @@
 # 内容：屏蔽网站
 
-# DOMAIN-SUFFIX,ad.gt
-# DOMAIN-SUFFIX,bilanx.dcard.tw
-# DOMAIN-SUFFIX,shandianpic.com
-DOMAIN,v2.reachmax.cn
-
 # 百度
+DOMAIN-SUFFIX,baidustatic.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN,bgg.baidu.com
 DOMAIN,hm.baidu.com
+DOMAIN,hmma.baidu.com
+DOMAIN,msite.baidu.com
 DOMAIN,sp1.baidu.com
-# DOMAIN,zz.bdstatic.com
 
 # B站
 DOMAIN-SUFFIX,appsflyer.com
@@ -16,14 +15,22 @@ DOMAIN-SUFFIX,appsflyer.com
 # 多邻国广告
 DOMAIN-SUFFIX,unity3d.com
 
+# 高德
+DOMAIN,optimus-ads.amap.com
+
 # 淘宝
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,ut.taobao.com
 DOMAIN,amdc.m.taobao.com
+DOMAIN,atoken.m.taobao.com
+DOMAIN,audid-api.taobao.com
+DOMAIN,cdn.taboola.com
+DOMAIN,fourier.taobao.com
 
 # 腾讯
 DOMAIN,adsmind.gdtimg.com
 DOMAIN,h.trace.qq.com
+DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 # DOMAIN,tpstelemetry.tencent.com
 # DOMAIN,otheve.beacon.qq.com
 # DOMAIN,rmonitor.qq.com
@@ -32,18 +39,23 @@ DOMAIN,h.trace.qq.com
 
 # 头条
 DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN,api-access.pangolin-sdk-toutiao.com
+DOMAIN,api-access.pangolin-sdk-toutiao1.com
+DOMAIN,api-access.pangolin-sdk-toutiao-b.com
 
 # 微薄
 DOMAIN,adstrategy.biz.weibo.com
 
 # 小红书
 DOMAIN,spider-tracker.xiaohongshu.com
+DOMAIN,ads-img-al.xhscdn.com
+DOMAIN,apm-fe.xiaohongshu.com
 DOMAIN,apm-native.xiaohongshu.com
-DOMAIN,lng.xiaohongshu.com
-# DOMAIN,t2.xiaohongshu.com
-DOMAIN,edith.xiaohongshu.com
-DOMAIN,modelportrait.xiaohongshu.com
 DOMAIN,as.xiaohongshu.com
+DOMAIN,edith.xiaohongshu.com
+DOMAIN,lng.xiaohongshu.com
+DOMAIN,modelportrait.xiaohongshu.com
+# DOMAIN,t2.xiaohongshu.com
 DOMAIN,open.kuaishouzt.com
 DOMAIN-SUFFIX,miaozhen.com
 
@@ -51,6 +63,10 @@ DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,igexin.com
+DOMAIN-SUFFIX,pcdn.xmcdn.com
+DOMAIN,adse.ximalaya.com
+DOMAIN,adse.wsa.ximalaya.com
 
 # 迅雷
 # DOMAIN,analysis-acc-ssl.xunlei.com
@@ -62,6 +78,13 @@ DOMAIN-SUFFIX,umeng.com
 # 知乎
 DOMAIN,zhihu-web-analytics.zhihu.com
 
+# 字节跳动
+DOMAIN,analytics.oceanengine.com
+DOMAIN,mon.zijieapi.com
+DOMAIN,tnc3-alisc1.zijieapi.com
+DOMAIN,tnc3-aliec2.zijieapi.com
+DOMAIN,tnc3-bjlgy.zijieapi.com
+
 # Adobe
 DOMAIN,dpm.demdex.net
 
@@ -72,12 +95,16 @@ DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,appsflyersdk.com
 
 # Google
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
-DOMAIN-SUFFIX,doubleclick.net
 DOMAIN,adservice.google.com
 DOMAIN,app-analytics-services.com
 DOMAIN,app-measurement.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,fundingchoicesmessages.google.com
+DOMAIN,ogads-pa.clients6.google.com
 # DOMAIN,www.googleadservices.com
 DOMAIN,www.google-analytics.com
 
@@ -90,28 +117,68 @@ DOMAIN,snap.licdn.com
 
 # Microsoft
 DOMAIN-SUFFIX,clarity.ms
-DOMAIN-SUFFIX,bat.bing.com
+DOMAIN,bat.bing.com
 
 # Yahoo
 DOMAIN,sp.analytics.yahoo.com
 
 # AdGuard拦截
-DOMAIN,static.cloudflareinsights.com
-# DOMAIN,toblog.ctobsnssdk.com
+DOMAIN,sync.1rx.io
+DOMAIN,ssc-cms.33across.com
+DOMAIN,eb2.3lift.com
 DOMAIN,b.6sc.co
+DOMAIN,cs.admanmedia.com
+DOMAIN,match.adsrvr.org
+DOMAIN,cm.adform.net
+DOMAIN,jscdn.appier.net
+DOMAIN,ads.betweendigital.com
+DOMAIN,match.prod.bidr.io
+DOMAIN,x.bidswitch.net
+DOMAIN,cdn.branch.io
+DOMAIN,htlb.casalemedia.com
+DOMAIN,gum.criteo.com
+# DOMAIN,toblog.ctobsnssdk.com
+DOMAIN,match.deepintent.com
+DOMAIN,ad.holmesmind.com
+DOMAIN,js-sec.indexww.com
+DOMAIN,ap.lijit.com
+DOMAIN,rtb.mfadsrvr.com
+DOMAIN,secure.quantserve.com
+DOMAIN,v2.reachmax.cn
+DOMAIN,s.ad.smaato.net
+DOMAIN,ssbsync.smartadserver.com
+DOMAIN,sync.go.sonobi.com
+DOMAIN,sync.srv.stackadapt.com
+DOMAIN,ads.stickyadstv.com
+DOMAIN,pixel.tapad.com
+DOMAIN,sd-gl.xinqiucc.com
+DOMAIN,ads.yieldmo.com
+
 DOMAIN-KEYWORD,cedexis
 DOMAIN-KEYWORD,hotjar
-DOMAIN-SUFFIX,segment.com
-DOMAIN-SUFFIX,optimizely.com
-DOMAIN-SUFFIX,metadata.io
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,adjust.io
 DOMAIN-SUFFIX,beizi.biz
+DOMAIN-SUFFIX,casalemedia.com
+DOMAIN-SUFFIX,metadata.io
 DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,segment.io
 # DOMAIN-SUFFIX,urbanairship.com
 
 # 广告
-DOMAIN-SUFFIX,magsrv.com
-DOMAIN-SUFFIX,pemsrv.com
-DOMAIN-SUFFIX,bullionglidingscuttle.com
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,braze.eu
+DOMAIN-SUFFIX,bullionglidingscuttle.com
+DOMAIN-SUFFIX,creativecdn.com
 DOMAIN-SUFFIX,ispot.tv
+DOMAIN-SUFFIX,magsrv.com
+DOMAIN-SUFFIX,media.net
+DOMAIN-SUFFIX,openx.net
+DOMAIN-SUFFIX,pemsrv.com
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,rlcdn.com
+DOMAIN-SUFFIX,rubiconproject.com
+DOMAIN-SUFFIX,sharethrough.com
