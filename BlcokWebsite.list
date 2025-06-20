@@ -106,7 +106,7 @@ DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,metadata.io
 DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,mmstat.com
-DOMAIN-SUFFIX,urbanairship.com
+# DOMAIN-SUFFIX,urbanairship.com
 
 # 广告
 DOMAIN-SUFFIX,magsrv.com
