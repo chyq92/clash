@@ -10,7 +10,7 @@ IP-CIDR,91.228.167.43/32,no-resolve
 DOMAIN-SUFFIX,philips.com
 DOMAIN-SUFFIX,philips.112.2o7.net
 DOMAIN-SUFFIX,philips-healthsuite.com
-DOMAIN-SUFFIX,api3.branch.io
+# DOMAIN-SUFFIX,api3.branch.io
 DOMAIN-SUFFIX,images.ctfassets.net
 
 # time
