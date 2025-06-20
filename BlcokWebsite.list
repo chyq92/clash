@@ -159,7 +159,9 @@ DOMAIN-KEYWORD,hotjar
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
 DOMAIN-SUFFIX,beizi.biz
-DOMAIN-SUFFIX,casalemedia.com
+DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,braze.eu
+DOMAIN-SUFFIX,bullionglidingscuttle.com
 DOMAIN-SUFFIX,metadata.io
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,optimizely.com
@@ -169,9 +171,7 @@ DOMAIN-SUFFIX,segment.io
 
 # 广告
 DOMAIN-SUFFIX,adnxs.com
-DOMAIN-SUFFIX,braze.com
-DOMAIN-SUFFIX,braze.eu
-DOMAIN-SUFFIX,bullionglidingscuttle.com
+DOMAIN-SUFFIX,casalemedia.com
 DOMAIN-SUFFIX,creativecdn.com
 DOMAIN-SUFFIX,ispot.tv
 DOMAIN-SUFFIX,magsrv.com
