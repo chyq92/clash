@@ -100,7 +100,7 @@ DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN,adservice.google.com
-DOMAIN,app-analytics-services.com
+# DOMAIN,app-analytics-services.com
 DOMAIN,app-measurement.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,fundingchoicesmessages.google.com
