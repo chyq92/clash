@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,kickstarter.com
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,adspower.net
 DOMAIN-SUFFIX,dealmoon.com
-# DOMAIN-KEYWORD,duolingo
+DOMAIN-KEYWORD,duolingo
 
 # 论坛
 DOMAIN-SUFFIX,v2ex.com
