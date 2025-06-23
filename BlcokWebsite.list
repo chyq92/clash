@@ -39,6 +39,7 @@ DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 
 # 头条
 DOMAIN-SUFFIX,pglstatp-toutiao.com
+# DOMAIN-REGEX,api-access\.pangolin-sdk-toutiao.*\.com
 DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao1.com
 DOMAIN,api-access.pangolin-sdk-toutiao-b.com
