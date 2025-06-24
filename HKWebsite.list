@@ -1,6 +1,8 @@
-# 内容：对节点有特殊要求的网站
+# 内容：使用香港节点的网站
 
 # 漫蛙，仅可用香港和新加坡节点
 DOMAIN-KEYWORD,manwa
 DOMAIN-KEYWORD,mwfimsvfast
 DOMAIN-KEYWORD,mwappimgs.cc
+
+DOMAIN-KEYWORD,duolingo
