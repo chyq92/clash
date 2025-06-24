@@ -27,18 +27,6 @@ DOMAIN-SUFFIX,syfpos.com
 DOMAIN,content.jwplatform.com
 DOMAIN,cdn-ws.turnto.com
 
-# 一亩三分地
-DOMAIN-SUFFIX,1p3a.com
-DOMAIN-SUFFIX,1point3acres.com
-
-# 爱一帆
-DOMAIN-SUFFIX,yfsp.tv
-DOMAIN-SUFFIX,iyf.tv
-DOMAIN-SUFFIX,aiyifan.tv
-DOMAIN-SUFFIX,anygate.vip
-DOMAIN-SUFFIX,pipecdn.vip
-DOMAIN-SUFFIX,wyav.tv
-
 # shopping
 DOMAIN-SUFFIX,ultramobile.com
 DOMAIN-SUFFIX,keepa.com
@@ -49,17 +37,7 @@ DOMAIN-SUFFIX,quadpay.com
 DOMAIN-SUFFIX,forter.com
 DOMAIN-SUFFIX,klarna.com
 
-# redsift
-DOMAIN-SUFFIX,redsift.cloud
-DOMAIN,redsift.reporting.hardenize.com
-DOMAIN,public.sifts.io
-
-# 网络
-DOMAIN-SUFFIX,cloudns.net
-
 DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,usps.com
 DOMAIN-SUFFIX,us.zip.co
 DOMAIN,www.uscardforum.com
-
-DOMAIN-SUFFIX,manhuagui.com
