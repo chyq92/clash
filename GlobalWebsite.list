@@ -33,6 +33,27 @@ DOMAIN-SUFFIX,ghostery.com
 # DOMAIN,topocache20.azureedge.net
 # DOMAIN,services.digitalglobe.com
 
+# 一亩三分地
+DOMAIN-SUFFIX,1p3a.com
+DOMAIN-SUFFIX,1point3acres.com
+
+# 爱一帆
+DOMAIN-SUFFIX,yfsp.tv
+DOMAIN-SUFFIX,iyf.tv
+DOMAIN-SUFFIX,aiyifan.tv
+DOMAIN-SUFFIX,anygate.vip
+DOMAIN-SUFFIX,pipecdn.vip
+DOMAIN-SUFFIX,wyav.tv
+
+# redsift
+DOMAIN-SUFFIX,redsift.cloud
+DOMAIN,redsift.reporting.hardenize.com
+DOMAIN,public.sifts.io
+
+# 网络
+DOMAIN-SUFFIX,cloudns.net
+DOMAIN-SUFFIX,proton.me
+
 # 小说漫画
 DOMAIN-KEYWORD,distill
 DOMAIN-KEYWORD,notion
@@ -42,11 +63,12 @@ DOMAIN-KEYWORD,256wx
 DOMAIN-SUFFIX,keledushu.com
 DOMAIN-SUFFIX,ddxs.com
 DOMAIN-SUFFIX,banxia.cc
-DOMAIN-KEYWORD,boylove
-DOMAIN-KEYWORD,manwa
-DOMAIN-KEYWORD,mwfimsvfast
-DOMAIN-KEYWORD,mwappimgs.cc
 DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,dmxs.org
 DOMAIN-KEYWORD,6park
 DOMAIN-SUFFIX,shuige.club
+
+# 漫画
+DOMAIN-KEYWORD,boylove
+DOMAIN-SUFFIX,manhuagui.com
+
