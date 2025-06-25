@@ -2,7 +2,7 @@
 
 # 百度
 DOMAIN-SUFFIX,baidustatic.com
-DOMAIN-SUFFIX,bdstatic.com
+# DOMAIN-SUFFIX,bdstatic.com
 DOMAIN,bgg.baidu.com
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
