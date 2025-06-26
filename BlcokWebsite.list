@@ -103,7 +103,7 @@ DOMAIN-SUFFIX,gvt3.com
 DOMAIN,adservice.google.com
 # DOMAIN,app-analytics-services.com
 DOMAIN,app-measurement.com
-DOMAIN,firebaselogging-pa.googleapis.com
+# DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,fundingchoicesmessages.google.com
 DOMAIN,ogads-pa.clients6.google.com
 # DOMAIN,www.googleadservices.com
