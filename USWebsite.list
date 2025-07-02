@@ -14,7 +14,6 @@ DOMAIN,action.media6degrees.com
 DOMAIN,action.dstillery.com
 DOMAIN,tracker.unbxdapi.com
 
-
 # Newegg
 DOMAIN-KEYWORD,newegg
 DOMAIN,sealserver.trustwave.com
@@ -45,6 +44,7 @@ DOMAIN-SUFFIX,affirm.com
 DOMAIN-SUFFIX,quadpay.com
 DOMAIN-SUFFIX,forter.com
 DOMAIN-SUFFIX,klarna.com
+DOMAIN-SUFFIX,klarnaservices.com
 
 DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,usps.com
