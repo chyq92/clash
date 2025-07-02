@@ -1,20 +1,19 @@
 # 内容：常用美国网站
 
-# amazon
+# Amazon
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,a2z.com
 
-# REI
-DOMAIN-SUFFIX,rei.com
-DOMAIN,rei.sc.omtrdc.net
-DOMAIN,recs.richrelevance.com
-DOMAIN,risk-api.inauth.com
+# Backcoutry
+DOMAIN-SUFFIX,backcountry.com
+DOMAIN-SUFFIX,bazaarvoice.com
+DOMAIN,backcountry-us.attn.tv
+DOMAIN,action.media6degrees.com
+DOMAIN,action.dstillery.com
+DOMAIN,tracker.unbxdapi.com
 
-# Walmart
-DOMAIN-SUFFIX,walmartimages.com
-DOMAIN-SUFFIX,walmart.com
 
 # Newegg
 DOMAIN-KEYWORD,newegg
@@ -26,6 +25,16 @@ DOMAIN-SUFFIX,syf.com
 DOMAIN-SUFFIX,syfpos.com
 DOMAIN,content.jwplatform.com
 DOMAIN,cdn-ws.turnto.com
+
+# REI
+DOMAIN-SUFFIX,rei.com
+DOMAIN,rei.sc.omtrdc.net
+DOMAIN,recs.richrelevance.com
+DOMAIN,risk-api.inauth.com
+
+# Walmart
+DOMAIN-SUFFIX,walmartimages.com
+DOMAIN-SUFFIX,walmart.com
 
 # shopping
 DOMAIN-SUFFIX,ultramobile.com
