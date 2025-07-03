@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,ping0.cc
 DOMAIN,api.flightyapp.com
 DOMAIN,crl.verisign.com
 DOMAIN,api.ttt.sh
+DOMAIN-SUFFIX,uszcn.com
 
 DOMAIN-SUFFIX,clicktale.net
 DOMAIN-SUFFIX,chatra.io
