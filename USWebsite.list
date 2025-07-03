@@ -9,7 +9,9 @@ DOMAIN-SUFFIX,a2z.com
 # Backcoutry
 DOMAIN-SUFFIX,backcountry.com
 DOMAIN-SUFFIX,bazaarvoice.com
+DOMAIN-SUFFIX,digital-cloud-west.medallia.com
 DOMAIN,backcountry-us.attn.tv
+DOMAIN,creatives.attn.tv
 DOMAIN,action.media6degrees.com
 DOMAIN,action.dstillery.com
 DOMAIN,tracker.unbxdapi.com
@@ -43,8 +45,7 @@ DOMAIN-KEYWORD,ebay
 DOMAIN-SUFFIX,affirm.com
 DOMAIN-SUFFIX,quadpay.com
 DOMAIN-SUFFIX,forter.com
-DOMAIN-SUFFIX,klarna.com
-DOMAIN-SUFFIX,klarnaservices.com
+DOMAIN-KEYWORD,klarna
 
 DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,usps.com
