@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,standsapp.org
 # SSL证书
 DOMAIN-SUFFIX,lencr.org
 DOMAIN,cdp.rapidssl.com
+DOMAIN,crl.digicert-cn.com
 
 DOMAIN-KEYWORD,dynv6
 DOMAIN-SUFFIX,dyndns.com
