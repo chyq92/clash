@@ -82,3 +82,6 @@ DOMAIN,insights-collector.newrelic.com
 DOMAIN-SUFFIX,intuit.com
 DOMAIN,ck-content.imgix.net
 DOMAIN,ck-assets.imgix.net
+
+# ultra mobile
+DOMAIN-SUFFIX,ultramobile.com
