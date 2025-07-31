@@ -1,5 +1,9 @@
 # 内容：常用美国网站
 
+# weather.com
+DOMAIN-SUFFIX,weather.com
+DOMAIN-SUFFIX,w-x.co
+
 # 爱一帆
 DOMAIN-SUFFIX,yfsp.tv
 DOMAIN-SUFFIX,iyf.tv
