@@ -1,7 +1,5 @@
 # 内容：直连网站
 
-app
-
 # 电脑
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,intel.com
@@ -66,7 +64,6 @@ DST-PORT,123
 # vscode
 DOMAIN-KEYWORD,vscode
 DOMAIN,default.exp-tas.com
-
 
 DOMAIN,crl.verisign.com
 DOMAIN,api.ttt.sh
