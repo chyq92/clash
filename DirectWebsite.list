@@ -1,10 +1,46 @@
 # 内容：直连网站
 
+app
+
+# 电脑
+DOMAIN-SUFFIX,dell.com
+DOMAIN-SUFFIX,intel.com
+DOMAIN-SUFFIX,mcafee.com
+DOMAIN-SUFFIX,hp.com
+
+# 下载
+DOMAIN-SUFFIX,quark.cn
+
+# 域名
+DOMAIN-KEYWORD,dynv6
+DOMAIN-SUFFIX,dyndns.com
+
+# AdBlock
+DOMAIN-SUFFIX,standsapp.org
+
+# cdn
+DOMAIN,cdn.jsdelivr.net
+DOMAIN,fastly.jsdelivr.net
+
+# DJI
+DOMAIN-SUFFIX,dji.com
+DOMAIN-SUFFIX,djicdn.com
+DOMAIN-SUFFIX,djigate.com
+
 # ESET
 DOMAIN-SUFFIX,eset.com
 DOMAIN-SUFFIX,eset.systems
 DOMAIN-SUFFIX,e5.sk
 IP-CIDR,91.228.167.43/32,no-resolve
+
+# Flighty
+DOMAIN,api.flightyapp.com
+
+# IP查询
+DOMAIN-SUFFIX,ping0.cc
+
+# Linkedin机器人验证
+DOMAIN-SUFFIX,protechts.net
 
 # philips
 DOMAIN-SUFFIX,philips.com
@@ -13,46 +49,25 @@ DOMAIN-SUFFIX,philips-healthsuite.com
 # DOMAIN-SUFFIX,api3.branch.io
 DOMAIN-SUFFIX,images.ctfassets.net
 
-# time
-DOMAIN-SUFFIX,pool.ntp.org
-DOMAIN-KEYWORD,ocsp
-DST-PORT,123
-
-# 电脑
-DOMAIN-SUFFIX,dell.com
-DOMAIN-SUFFIX,intel.com
-DOMAIN-SUFFIX,mcafee.com
-DOMAIN-SUFFIX,hp.com
-
 # pushbullet
 DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pushbulletusercontent.com
-
-# cdn
-DOMAIN,cdn.jsdelivr.net
-DOMAIN,fastly.jsdelivr.net
-
-# vscode
-DOMAIN-KEYWORD,vscode
-DOMAIN,default.exp-tas.com
-
-# Linkedin机器人验证
-DOMAIN-SUFFIX,protechts.net
-
-# AdBlock
-DOMAIN-SUFFIX,standsapp.org
 
 # SSL证书
 DOMAIN-SUFFIX,lencr.org
 DOMAIN,cdp.rapidssl.com
 DOMAIN,crl.digicert-cn.com
 
-DOMAIN-KEYWORD,dynv6
-DOMAIN-SUFFIX,dyndns.com
-DOMAIN-SUFFIX,quark.cn
-DOMAIN-SUFFIX,ping0.cc
+# time
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-KEYWORD,ocsp
+DST-PORT,123
 
-DOMAIN,api.flightyapp.com
+# vscode
+DOMAIN-KEYWORD,vscode
+DOMAIN,default.exp-tas.com
+
+
 DOMAIN,crl.verisign.com
 DOMAIN,api.ttt.sh
 DOMAIN-SUFFIX,uszcn.com
