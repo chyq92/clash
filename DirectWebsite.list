@@ -22,8 +22,12 @@ DOMAIN,fastly.jsdelivr.net
 
 # DJI
 DOMAIN-SUFFIX,dji.com
+DOMAIN-SUFFIX,dji.net
 DOMAIN-SUFFIX,djicdn.com
 DOMAIN-SUFFIX,djigate.com
+DOMAIN-SUFFIX,djiits.com
+DOMAIN-SUFFIX,djiops.com
+DOMAIN-SUFFIX,djiservice.org
 
 # ESET
 DOMAIN-SUFFIX,eset.com
