@@ -1,17 +1,5 @@
 # 内容：常用美国网站
 
-# weather.com
-DOMAIN-SUFFIX,weather.com
-DOMAIN-SUFFIX,w-x.co
-
-# 爱一帆
-DOMAIN-SUFFIX,yfsp.tv
-DOMAIN-SUFFIX,iyf.tv
-DOMAIN-SUFFIX,aiyifan.tv
-DOMAIN-SUFFIX,anygate.vip
-DOMAIN-SUFFIX,pipecdn.vip
-DOMAIN-SUFFIX,wyav.tv
-
 DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,usps.com
 DOMAIN-SUFFIX,us.zip.co
