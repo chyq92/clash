@@ -7,3 +7,12 @@ DOMAIN-SUFFIX,aiyifan.tv
 DOMAIN-SUFFIX,anygate.vip
 DOMAIN-SUFFIX,pipecdn.vip
 DOMAIN-SUFFIX,wyav.tv
+
+# 广播剧
+DOMAIN-KEYWORD,6park
+DOMAIN-SUFFIX,shuige.club
+
+# 漫画
+DOMAIN-KEYWORD,boylove
+# 不能用台湾节点
+DOMAIN-SUFFIX,manhuagui.com
