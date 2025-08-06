@@ -32,6 +32,10 @@ DOMAIN-SUFFIX,ghostery.com
 DOMAIN-SUFFIX,1p3a.com
 DOMAIN-SUFFIX,1point3acres.com
 
+# weather.com
+DOMAIN-SUFFIX,weather.com
+DOMAIN-SUFFIX,w-x.co
+
 # redsift
 DOMAIN-SUFFIX,redsift.cloud
 DOMAIN,redsift.reporting.hardenize.com
@@ -41,7 +45,7 @@ DOMAIN,public.sifts.io
 DOMAIN-SUFFIX,cloudns.net
 DOMAIN-SUFFIX,proton.me
 
-# 小说广播剧
+# 小说
 DOMAIN-KEYWORD,distill
 DOMAIN-KEYWORD,notion
 DOMAIN-SUFFIX,archiveofourown.org
@@ -52,11 +56,3 @@ DOMAIN-SUFFIX,keledushu.com
 DOMAIN-SUFFIX,ddxs.com
 DOMAIN-SUFFIX,banxia.cc
 DOMAIN-SUFFIX,dmxs.org
-DOMAIN-KEYWORD,6park
-DOMAIN-SUFFIX,shuige.club
-
-# 漫画
-DOMAIN-KEYWORD,boylove
-# 不能用台湾节点
-DOMAIN-SUFFIX,manhuagui.com
-
