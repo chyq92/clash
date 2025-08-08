@@ -44,10 +44,6 @@ DOMAIN-SUFFIX,ping0.cc
 # Linkedin机器人验证
 DOMAIN-SUFFIX,protechts.net
 
-DOMAIN-SUFFIX,openweathermap.org
-DOMAIN-SUFFIX,opentopodata.org
-DOMAIN-SUFFIX,openstreetmap.org
-
 # philips
 DOMAIN-SUFFIX,philips.com
 DOMAIN-SUFFIX,philips.112.2o7.net
