@@ -11,7 +11,10 @@ DOMAIN-SUFFIX,opentopodata.org
 DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,openweathermap.org
 
+DOMAIN-SUFFIX,auroras.live
+DOMAIN-SUFFIX,lightpollutionmap.info
 DOMAIN-SUFFIX,maps.me
+
 DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,strava.com
 DOMAIN,a.tile.thunderforest.com
