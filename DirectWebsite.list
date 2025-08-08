@@ -60,6 +60,11 @@ DOMAIN-SUFFIX,lencr.org
 DOMAIN,cdp.rapidssl.com
 DOMAIN,crl.digicert-cn.com
 
+
+# Star Walk 2
+DOMAIN-SUFFIX,swalk.co
+DOMAIN-SUFFIX,starwalk.space
+
 # time
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-KEYWORD,ocsp
