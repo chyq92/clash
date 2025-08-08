@@ -32,9 +32,10 @@ DOMAIN-SUFFIX,ghostery.com
 DOMAIN-SUFFIX,1p3a.com
 DOMAIN-SUFFIX,1point3acres.com
 
-# weather.com
+# weather
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,w-x.co
+DOMAIN-SUFFIX,windy.com
 
 # redsift
 DOMAIN-SUFFIX,redsift.cloud
