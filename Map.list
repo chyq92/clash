@@ -7,6 +7,10 @@ DOMAIN,account-api.delorme.com
 DOMAIN-SUFFIX,inreachapp.com
 DOMAIN-KEYWORD,garmin
 
+DOMAIN-SUFFIX,opentopodata.org
+DOMAIN-SUFFIX,openstreetmap.org
+DOMAIN-SUFFIX,openweathermap.org
+
 DOMAIN-SUFFIX,maps.me
 DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,strava.com
