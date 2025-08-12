@@ -3,6 +3,8 @@
 # 漫蛙，仅可用香港和新加坡节点
 DOMAIN-KEYWORD,manwa
 DOMAIN-KEYWORD,mwfimsvfast
-DOMAIN-KEYWORD,mwappimgs.cc
+DOMAIN-SUFFIX,mwappimgs.cc
+
+DOMAIN-SUFFIX,fxshu.top
 
 DOMAIN-KEYWORD,duolingo
