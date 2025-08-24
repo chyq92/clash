@@ -26,6 +26,7 @@ DOMAIN,atoken.m.taobao.com
 DOMAIN,audid-api.taobao.com
 DOMAIN,cdn.taboola.com
 DOMAIN,fourier.taobao.com
+DOMAIN,h-adashx.ut.taobao.com
 
 # 腾讯
 DOMAIN,adsmind.gdtimg.com
@@ -52,8 +53,8 @@ DOMAIN,spider-tracker.xiaohongshu.com
 DOMAIN,ads-img-al.xhscdn.com
 DOMAIN,apm-fe.xiaohongshu.com
 DOMAIN,apm-native.xiaohongshu.com
-DOMAIN,as.xiaohongshu.com
-DOMAIN,edith.xiaohongshu.com
+# DOMAIN,as.xiaohongshu.com
+# DOMAIN,edith.xiaohongshu.com
 # DOMAIN,lng.xiaohongshu.com
 DOMAIN,modelportrait.xiaohongshu.com
 # DOMAIN,t2.xiaohongshu.com
@@ -71,6 +72,9 @@ DOMAIN,adse.wsa.ximalaya.com
 
 # 迅雷
 # DOMAIN,analysis-acc-ssl.xunlei.com
+
+# 优酷
+pcapp-data-collect.youku.com
 
 # 友盟
 DOMAIN-SUFFIX,umengcloud.com
@@ -135,6 +139,7 @@ DOMAIN,jscdn.appier.net
 DOMAIN,ads.betweendigital.com
 DOMAIN,match.prod.bidr.io
 DOMAIN,x.bidswitch.net
+DOMAIN,metrics.brightcove.com
 DOMAIN,cdn.branch.io
 DOMAIN,htlb.casalemedia.com
 DOMAIN,gum.criteo.com
@@ -171,6 +176,7 @@ DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,segment.io
 # DOMAIN-SUFFIX,urbanairship.com
+DOMAIN-SUFFIX,ads.vungle.com
 
 # 广告
 DOMAIN-SUFFIX,adnxs.com
