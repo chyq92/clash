@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,mcafee.com
 DOMAIN-SUFFIX,hp.com
+DOMAIN-SUFFIX,sony.com
 
 # 下载
 DOMAIN-SUFFIX,quark.cn
@@ -59,7 +60,6 @@ DOMAIN-SUFFIX,pushbulletusercontent.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN,cdp.rapidssl.com
 DOMAIN,crl.digicert-cn.com
-
 
 # Star Walk 2
 DOMAIN-SUFFIX,swalk.co
