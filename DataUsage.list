@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,shuige.club
 DOMAIN-KEYWORD,boylove
 # 不能用台湾节点
 DOMAIN-SUFFIX,manhuagui.com
+
+# 游戏
+DOMAIN-SUFFIX,epicgames.com
