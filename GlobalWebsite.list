@@ -1,14 +1,16 @@
 # 内容：常用国外网站
 
-DOMAIN-SUFFIX,yahoo.com
-DOMAIN-SUFFIX,vivaldi.com
-DOMAIN-SUFFIX,vivaldi.net
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,opensnow.com
-DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,adspower.net
 DOMAIN-SUFFIX,dealmoon.com
+DOMAIN-KEYWORD,distill
+DOMAIN-KEYWORD,notion
+DOMAIN-SUFFIX,opensnow.com
+DOMAIN-SUFFIX,signal.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,vivaldi.com
+DOMAIN-SUFFIX,vivaldi.net
+DOMAIN-SUFFIX,yahoo.com
 
 # AdGuard Home
 DOMAIN-SUFFIX,ghostery.com
@@ -51,13 +53,12 @@ DOMAIN-SUFFIX,1p3a.com
 DOMAIN-SUFFIX,1point3acres.com
 
 # 小说
-DOMAIN-KEYWORD,distill
-DOMAIN-KEYWORD,notion
-DOMAIN-SUFFIX,archiveofourown.org
-DOMAIN-SUFFIX,sto.cx
-DOMAIN-SUFFIX,52shuku.vip
 DOMAIN-KEYWORD,256wx
-DOMAIN-SUFFIX,keledushu.com
-DOMAIN-SUFFIX,ddxs.com
+DOMAIN-SUFFIX,52shuku.vip
+DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,banxia.cc
+DOMAIN-SUFFIX,ddxs.com
 DOMAIN-SUFFIX,dmxs.org
+DOMAIN-SUFFIX,keledushu.com
+DOMAIN-SUFFIX,sto.cx
+DOMAIN-KEYWORD,txtnovel
