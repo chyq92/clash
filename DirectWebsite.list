@@ -52,10 +52,6 @@ DOMAIN-SUFFIX,philips-healthsuite.com
 # DOMAIN-SUFFIX,api3.branch.io
 DOMAIN-SUFFIX,images.ctfassets.net
 
-# pushbullet
-DOMAIN-SUFFIX,pushbullet.com
-DOMAIN-SUFFIX,pushbulletusercontent.com
-
 # SSL证书
 DOMAIN-SUFFIX,lencr.org
 DOMAIN,cdp.rapidssl.com
