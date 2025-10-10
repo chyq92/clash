@@ -45,13 +45,6 @@ DOMAIN-SUFFIX,ping0.cc
 # Linkedin机器人验证
 DOMAIN-SUFFIX,protechts.net
 
-# philips
-DOMAIN-SUFFIX,philips.com
-DOMAIN-SUFFIX,philips.112.2o7.net
-DOMAIN-SUFFIX,philips-healthsuite.com
-# DOMAIN-SUFFIX,api3.branch.io
-DOMAIN-SUFFIX,images.ctfassets.net
-
 # SSL证书
 DOMAIN-SUFFIX,lencr.org
 DOMAIN,cdp.rapidssl.com
