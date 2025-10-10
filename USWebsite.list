@@ -4,3 +4,10 @@ DOMAIN-SUFFIX,ups.com
 DOMAIN-SUFFIX,usps.com
 DOMAIN-SUFFIX,us.zip.co
 DOMAIN,www.uscardforum.com
+
+# philips
+DOMAIN-SUFFIX,philips.com
+DOMAIN-SUFFIX,philips.112.2o7.net
+DOMAIN-SUFFIX,philips-healthsuite.com
+# DOMAIN-SUFFIX,api3.branch.io
+DOMAIN-SUFFIX,images.ctfassets.net
