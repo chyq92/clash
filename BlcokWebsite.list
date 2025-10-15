@@ -18,6 +18,10 @@ DOMAIN-SUFFIX,unity3d.com
 # 高德
 DOMAIN,optimus-ads.amap.com
 
+# 快手
+DOMAIN,open.kwaizt.com
+DOMAIN,open.kuaishouzt.com
+
 # 淘宝
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,ut.taobao.com
@@ -52,13 +56,12 @@ DOMAIN,adstrategy.biz.weibo.com
 DOMAIN,spider-tracker.xiaohongshu.com
 DOMAIN,ads-img-al.xhscdn.com
 DOMAIN,apm-fe.xiaohongshu.com
-DOMAIN,apm-native.xiaohongshu.com
+# DOMAIN,apm-native.xiaohongshu.com
 # DOMAIN,as.xiaohongshu.com
 # DOMAIN,edith.xiaohongshu.com
 # DOMAIN,lng.xiaohongshu.com
 DOMAIN,modelportrait.xiaohongshu.com
 # DOMAIN,t2.xiaohongshu.com
-DOMAIN,open.kuaishouzt.com
 DOMAIN-SUFFIX,miaozhen.com
 
 # 喜马拉雅
@@ -175,7 +178,8 @@ DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,segment.io
-# DOMAIN-SUFFIX,urbanairship.com
+DOMAIN-SUFFIX,urbanairship.com
+DOMAIN-SUFFIX,volceapplog.com
 DOMAIN-SUFFIX,ads.vungle.com
 
 # 广告
