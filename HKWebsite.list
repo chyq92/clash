@@ -1,6 +1,7 @@
 # 内容：使用香港节点的网站
 
 DOMAIN-SUFFIX,hk.chinamobile.com
+DOMAIN-SUFFIX,bochk.com
 
 # 漫蛙，仅可用香港和新加坡节点
 DOMAIN-KEYWORD,manwa
