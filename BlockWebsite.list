@@ -77,7 +77,7 @@ DOMAIN,adse.wsa.ximalaya.com
 # DOMAIN,analysis-acc-ssl.xunlei.com
 
 # 优酷
-pcapp-data-collect.youku.com
+DOMAIN,pcapp-data-collect.youku.com
 
 # 友盟
 DOMAIN-SUFFIX,umengcloud.com
