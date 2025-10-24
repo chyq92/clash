@@ -56,7 +56,7 @@ DOMAIN,adstrategy.biz.weibo.com
 DOMAIN,spider-tracker.xiaohongshu.com
 DOMAIN,ads-img-al.xhscdn.com
 DOMAIN,apm-fe.xiaohongshu.com
-DOMAIN,apm-native.xiaohongshu.com
+# DOMAIN,apm-native.xiaohongshu.com
 # DOMAIN,as.xiaohongshu.com
 # DOMAIN,edith.xiaohongshu.com
 # DOMAIN,lng.xiaohongshu.com
