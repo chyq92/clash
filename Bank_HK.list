@@ -1,0 +1,11 @@
+# 内容：香港银行网站
+
+# 中移动
+DOMAIN-SUFFIX,hk.chinamobile.com
+
+#中银香港
+DOMAIN-KEYWORD,bochk
+
+# 汇丰
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN,aa.online-metrix.net
