@@ -50,7 +50,7 @@ DOMAIN,api-access.pangolin-sdk-toutiao1.com
 DOMAIN,api-access.pangolin-sdk-toutiao-b.com
 
 # 微薄
-DOMAIN,adstrategy.biz.weibo.com
+DOMAIN-SUFFIX,biz.weibo.com
 
 # 小红书
 DOMAIN,spider-tracker.xiaohongshu.com
