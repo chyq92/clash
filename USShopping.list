@@ -1,5 +1,8 @@
 # 内容：常用美国购物网站
 
+# 银行用
+DOMAIN,tags.tiqcdn.com
+
 # Amazon
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,aws
