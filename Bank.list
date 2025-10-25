@@ -1,15 +1,17 @@
 # 内容： 含个人信息的网站
 
 # bank & financial
-DOMAIN-SUFFIX,datadoghq-browser-agent.com
+DOMAIN-KEYWORD,datadoghq
+# DOMAIN-SUFFIX,datadoghq-browser-agent.com
 DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,ingest.us.sentry.io
 DOMAIN-SUFFIX,tt.omtrdc.net
+DOMAIN-SUFFIX,online-metrix.net
 DOMAIN-SUFFIX,qualtrics.com
 DOMAIN,dpm.demdex.net
 DOMAIN-SUFFIX,us.v2.we-stats.com
-DOMAIN,browser-intake-datadoghq.com
-DOMAIN,browser-intake-us5-datadoghq.com
+# DOMAIN,browser-intake-datadoghq.com
+# DOMAIN,browser-intake-us5-datadoghq.com
 DOMAIN,assets.adobedtm.com
 DOMAIN,api2.branch.io
 
@@ -41,12 +43,10 @@ DOMAIN-SUFFIX,bankofamerica.com
 DOMAIN-SUFFIX,bac-assets.com
 DOMAIN,bankofamerica1.sc.omtrdc.net
 DOMAIN,awuseb.advanced-web-analytics.com
-DOMAIN,tags.tiqcdn.com
 
 # Citi
 DOMAIN-SUFFIX,citi.com
 DOMAIN-SUFFIX,citicards.com
-DOMAIN-SUFFIX,online-metrix.net
 # DOMAIN,p11.techlab-cdn.com
 # DOMAIN,code.jquery.com
 
