@@ -3,6 +3,6 @@
 DOMAIN-SUFFIX,ahdohpiechei.com
 DOMAIN-SUFFIX,joinchitchat.com
 DOMAIN-SUFFIX,jpush.cn
-DOMAIN-SUFFIX,y.qq.com
+# DOMAIN-SUFFIX,y.qq.com
 DOMAIN,upc.zztfly.com
 IP-CIDR,43.231.145.10/32,no-resolve
