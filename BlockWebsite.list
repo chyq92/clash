@@ -20,7 +20,10 @@ DOMAIN,optimus-ads.amap.com
 
 # 快手
 DOMAIN,open.kwaizt.com
+DOMAIN,open.e.kuaishou.cn
+DOMAIN,open.e.kuaishou.com
 DOMAIN,open.kuaishouzt.com
+
 
 # 淘宝
 DOMAIN-SUFFIX,tanx.com
@@ -47,9 +50,9 @@ DOMAIN,adstats.tencentmusic.com
 # 头条
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 # DOMAIN-REGEX,api-access\.pangolin-sdk-toutiao.*\.com
-DOMAIN,api-access.pangolin-sdk-toutiao.com
-DOMAIN,api-access.pangolin-sdk-toutiao1.com
-DOMAIN,api-access.pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com
 
 # 微薄
 DOMAIN-SUFFIX,biz.weibo.com
@@ -151,6 +154,7 @@ DOMAIN,gum.criteo.com
 # DOMAIN,toblog.ctobsnssdk.com
 DOMAIN,match.deepintent.com
 DOMAIN,t.getletterpress.com
+DOMAIN,gdfp.gifshow.com
 DOMAIN,ad.holmesmind.com
 DOMAIN,js-sec.indexww.com
 DOMAIN,ap.lijit.com
