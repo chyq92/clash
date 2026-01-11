@@ -1,7 +1,7 @@
 # 内容：国内网站
 
 DOMAIN-SUFFIX,cumen.fun
-DOMAIN,ftp.cn.debian.org
+# DOMAIN,ftp.cn.debian.org
 
 # DOMAIN-SUFFIX,map.gtimg.com
 # DOMAIN-SUFFIX,y.gtimg.cn
