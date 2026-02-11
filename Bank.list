@@ -2,67 +2,31 @@
 
 # bank & financial
 DOMAIN-KEYWORD,datadoghq
-# DOMAIN-SUFFIX,datadoghq-browser-agent.com
-DOMAIN-SUFFIX,ingest.sentry.io
-DOMAIN-SUFFIX,ingest.us.sentry.io
+DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,tt.omtrdc.net
 DOMAIN-SUFFIX,online-metrix.net
 DOMAIN-SUFFIX,qualtrics.com
-DOMAIN,dpm.demdex.net
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,us.v2.we-stats.com
+DOMAIN,assets.adobedtm.com
+DOMAIN,dpm.demdex.net
+
+# DOMAIN-SUFFIX,datadoghq-browser-agent.com
 # DOMAIN,browser-intake-datadoghq.com
 # DOMAIN,browser-intake-us5-datadoghq.com
-DOMAIN,assets.adobedtm.com
-DOMAIN,api2.branch.io
-
-# fidelity
-DOMAIN-SUFFIX,fidelity.com
-DOMAIN,r.3gl.net
-DOMAIN,doh.cq0.co
-DOMAIN-SUFFIX,pendo.io
-DOMAIN-SUFFIX,glance.net
-DOMAIN,www.glancecdn.net
-DOMAIN-SUFFIX,clicktale.net
-
-# chase
-DOMAIN-SUFFIX,chase.com
-DOMAIN-SUFFIX,chasecdn.com
-DOMAIN-SUFFIX,mpulse.net
-DOMAIN-SUFFIX,zimperium.com
-DOMAIN,public.cobrowse.oraclecloud.com
+# DOMAIN-SUFFIX,ingest.sentry.io
+# DOMAIN-SUFFIX,ingest.us.sentry.io
 
 # AMEX
 DOMAIN-SUFFIX,americanexpress.com
 DOMAIN-SUFFIX,aexp-static.com
+DOMAIN,featureassets.org
 DOMAIN,nexus.ensighten.com
 # DOMAIN,www.cdn-path.com
 # DOMAIN,ct.contentsquare.net
 
-# BOA
-DOMAIN-SUFFIX,bankofamerica.com
-DOMAIN-SUFFIX,bac-assets.com
-DOMAIN,bankofamerica1.sc.omtrdc.net
-DOMAIN,awuseb.advanced-web-analytics.com
-
-# Citi
-DOMAIN-SUFFIX,citi.com
-DOMAIN-SUFFIX,citicards.com
-# DOMAIN,p11.techlab-cdn.com
-# DOMAIN,code.jquery.com
-
-# discover
-DOMAIN-SUFFIX,discover.com
-DOMAIN-SUFFIX,discoverbank.com
-DOMAIN-SUFFIX,discovercard.com
-DOMAIN,report.dfs.glassboxdigital.io
-DOMAIN,msdk.us2.freshchat.com
-
-# Wells Fargo
-DOMAIN-SUFFIX,wellsfargo.com
-DOMAIN-SUFFIX,wf.com
-DOMAIN-SUFFIX,wellsfargomedia.com
-
 # Bilt
+DOMAIN-SUFFIX,bilt.com
 DOMAIN-SUFFIX,biltrewards.com
 DOMAIN,bilt-rewards.stellate.sh
 DOMAIN,bilt.edge.getunleash.io
@@ -71,7 +35,44 @@ DOMAIN,www.datocms-assets.com
 DOMAIN-SUFFIX,fullstory.com
 DOMAIN,imagecdn.realty.com
 
-# robinhood
+# BOA
+DOMAIN-SUFFIX,bankofamerica.com
+DOMAIN-SUFFIX,bac-assets.com
+DOMAIN,bankofamerica1.sc.omtrdc.net
+DOMAIN,awuseb.advanced-web-analytics.com
+DOMAIN,d2oexzqukiqsxx.cloudfront.net
+
+# Citi
+DOMAIN-SUFFIX,citi.com
+DOMAIN-SUFFIX,citicards.com
+# DOMAIN,p11.techlab-cdn.com
+# DOMAIN,code.jquery.com
+
+# Chase
+DOMAIN-SUFFIX,chase.com
+DOMAIN-SUFFIX,chasecdn.com
+DOMAIN-SUFFIX,mpulse.net
+DOMAIN-SUFFIX,zimperium.com
+DOMAIN,public.cobrowse.oraclecloud.com
+
+# Discover
+DOMAIN-SUFFIX,discover.com
+DOMAIN-SUFFIX,discoverbank.com
+DOMAIN-SUFFIX,discovercard.com
+DOMAIN,report.dfs.glassboxdigital.io
+DOMAIN,mobile-sdk-lib-ca-1.brilliantcollector.com
+DOMAIN,msdk.us2.freshchat.com
+
+# Fidelity
+DOMAIN-SUFFIX,fidelity.com
+DOMAIN,r.3gl.net
+DOMAIN,doh.cq0.co
+DOMAIN-SUFFIX,pendo.io
+DOMAIN-SUFFIX,glance.net
+DOMAIN,www.glancecdn.net
+DOMAIN-SUFFIX,clicktale.net
+
+# Robinhood
 DOMAIN-SUFFIX,robinhood.com
 DOMAIN,api.sprig.com
 
@@ -82,6 +83,16 @@ DOMAIN,insights-collector.newrelic.com
 DOMAIN-SUFFIX,intuit.com
 DOMAIN,ck-content.imgix.net
 DOMAIN,ck-assets.imgix.net
+
+# Paypal
+DOMAIN,analytics.adjust.world
+DOMAIN,e-11666.adzerk.net
+DOMAIN,fraud-api.dyneti.com
+
+# Wells Fargo
+DOMAIN-SUFFIX,wellsfargo.com
+DOMAIN-SUFFIX,wf.com
+DOMAIN-SUFFIX,wellsfargomedia.com
 
 # ultra mobile
 DOMAIN-SUFFIX,ultramobile.com
