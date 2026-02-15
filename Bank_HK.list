@@ -14,6 +14,9 @@ DOMAIN,aa.online-metrix.net
 DOMAIN,mobile.useinsider.com
 DOMAIN,log-58144bf0.we-stats.com
 
+# 缴费灵
+DOMAIN-SUFFIX,ppshk.com
+
 # 水务处
 DOMAIN,wsdapp.wsd.gov.hk
 
