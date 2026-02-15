@@ -29,13 +29,11 @@ DOMAIN-KEYWORD,bochk
 # eMPF
 DOMAIN-SUFFIX,empf.org.hk
 
-# iAM Smart
-DOMAIN-SUFFIX,iamsmart.gov.hk
-
 # HKT
 DOMAIN,customerservice.pccw.com
 
+# iAM Smart
+DOMAIN-SUFFIX,iamsmart.gov.hk
+
 # Towngas
 DOMAIN-SUFFIX,towngas.com
-
-
