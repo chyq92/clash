@@ -19,3 +19,16 @@ DOMAIN-SUFFIX,hk.chinamobile.com
 
 #中银香港
 DOMAIN-KEYWORD,bochk
+
+# eMPF
+DOMAIN-SUFFIX,empf.org.hk
+
+# iAM Smart
+DOMAIN-SUFFIX,iamsmart.gov.hk
+
+# Towngas
+DOMAIN-SUFFIX,towngas.com
+
+# 水务处
+DOMAIN,wsdapp.wsd.gov.hk
+
