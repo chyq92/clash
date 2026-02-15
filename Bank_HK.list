@@ -4,11 +4,14 @@
 DOMAIN-SUFFIX,octopus-cards.com
 
 # 汇丰
+DOMAIN-KEYWORD,payme
 DOMAIN-SUFFIX,hsbc.com.hk
-DOMAIN-SUFFIX,vam-hk.cloud1.vv1865.com
-DOMAIN,sy.v.liveperson.net
+DOMAIN-SUFFIX,cloud1.vv1865.com
+DOMAIN-SUFFIX,liveperson.net
 DOMAIN,accdn.lpsnmedia.net
 DOMAIN,aa.online-metrix.net
+DOMAIN,collect-ap-east-1.tealiumiq.com
+DOMAIN,mobile.useinsider.com
 DOMAIN,log-58144bf0.we-stats.com
 
 # 中移动
@@ -16,6 +19,3 @@ DOMAIN-SUFFIX,hk.chinamobile.com
 
 #中银香港
 DOMAIN-KEYWORD,bochk
-
-# PayMe
-DOMAIN-KEYWORD,payme
