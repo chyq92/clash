@@ -14,6 +14,9 @@ DOMAIN,aa.online-metrix.net
 DOMAIN,mobile.useinsider.com
 DOMAIN,log-58144bf0.we-stats.com
 
+# 水务处
+DOMAIN,wsdapp.wsd.gov.hk
+
 # 中移动
 DOMAIN-SUFFIX,hk.chinamobile.com
 
@@ -26,9 +29,10 @@ DOMAIN-SUFFIX,empf.org.hk
 # iAM Smart
 DOMAIN-SUFFIX,iamsmart.gov.hk
 
+# HKT
+DOMAIN,customerservice.pccw.com
+
 # Towngas
 DOMAIN-SUFFIX,towngas.com
 
-# 水务处
-DOMAIN,wsdapp.wsd.gov.hk
 
