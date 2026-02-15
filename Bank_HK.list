@@ -1,10 +1,7 @@
 # 内容：香港银行网站
 
-# 中移动
-DOMAIN-SUFFIX,hk.chinamobile.com
-
-#中银香港
-DOMAIN-KEYWORD,bochk
+# 八达通
+DOMAIN-SUFFIX,octopus-cards.com
 
 # 汇丰
 DOMAIN-SUFFIX,hsbc.com.hk
@@ -14,5 +11,11 @@ DOMAIN,accdn.lpsnmedia.net
 DOMAIN,aa.online-metrix.net
 DOMAIN,log-58144bf0.we-stats.com
 
-# 八达通
-DOMAIN-SUFFIX,octopus-cards.com
+# 中移动
+DOMAIN-SUFFIX,hk.chinamobile.com
+
+#中银香港
+DOMAIN-KEYWORD,bochk
+
+# Payme
+DOMAIN-KEYWOIRD,payme
