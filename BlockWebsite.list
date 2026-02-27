@@ -77,7 +77,8 @@ DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,igexin.com
 DOMAIN-SUFFIX,pcdn.xmcdn.com
-#DOMAIN,adse.ximalaya.com
+# DOMAIN,adse.ximalaya.com
+DOMAIN,adse.test.ximalaya.com
 DOMAIN,adse.wsa.ximalaya.com
 
 # 迅雷
