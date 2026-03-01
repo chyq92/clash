@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,unity3d.com
 
 # 高德
 DOMAIN,optimus-ads.amap.com
+DOMAIN,awaken.amap.com
 
 # 快手
 DOMAIN,open.kwaizt.com
@@ -58,18 +59,21 @@ DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com
 
 # 微薄
 DOMAIN-SUFFIX,biz.weibo.com
+DOMAIN,bootpreload.uve.weibo.com
+DOMAIN,bootrealtime.uve.weibo.com
+DOMAIN,sdkapp.uve.weibo.com
 
 # 小红书
-DOMAIN,spider-tracker.xiaohongshu.com
+DOMAIN-SUFFIX,miaozhen.com
 DOMAIN,ads-img-al.xhscdn.com
 DOMAIN,apm-fe.xiaohongshu.com
 DOMAIN,apm-native.xiaohongshu.com
+DOMAIN,modelportrait.xiaohongshu.com
+DOMAIN,spider-tracker.xiaohongshu.com
 # DOMAIN,as.xiaohongshu.com
 # DOMAIN,edith.xiaohongshu.com
 # DOMAIN,lng.xiaohongshu.com
-DOMAIN,modelportrait.xiaohongshu.com
 # DOMAIN,t2.xiaohongshu.com
-DOMAIN-SUFFIX,miaozhen.com
 
 # 喜马拉雅
 DOMAIN-SUFFIX,gepush.com
