@@ -36,7 +36,7 @@ DOMAIN,fourier.taobao.com
 DOMAIN,h-adashx.ut.taobao.com
 
 # 腾讯
-DOMAIN,adsmind.gdtimg.com
+# DOMAIN,adsmind.gdtimg.com
 DOMAIN,h.trace.qq.com
 DOMAIN,apd-pcdnvodstat.teg.tencent-cloud.net
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
