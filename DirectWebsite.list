@@ -1,5 +1,7 @@
 # 内容：直连网站
 
+IP-CIDR,47.110.75.65/32,no-resolve
+
 #爱快
 DOMAIN-SUFFIX,ikuai8.com
 
