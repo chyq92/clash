@@ -102,10 +102,12 @@ DOMAIN,zhihu-web-analytics.zhihu.com
 
 # 字节跳动
 DOMAIN,analytics.oceanengine.com
+DOMAIN,ads3-normal-lf.zijieapi.com
 DOMAIN,mon.zijieapi.com
 DOMAIN,tnc3-alisc1.zijieapi.com
 DOMAIN,tnc3-aliec2.zijieapi.com
 DOMAIN,tnc3-bjlgy.zijieapi.com
+
 
 # Adobe
 DOMAIN,dpm.demdex.net
