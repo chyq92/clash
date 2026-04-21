@@ -79,7 +79,7 @@ DOMAIN-SUFFIX,uszcn.com
 
 DOMAIN-SUFFIX,clicktale.net
 DOMAIN-SUFFIX,chatra.io
-DOMAIN-SUFFIX,gravatar.com
+# DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,rpt-cdxcn.com
 DOMAIN-SUFFIX,gsecondscreen.com
 DOMAIN,ohttp-relay1.fastly-edge.com
