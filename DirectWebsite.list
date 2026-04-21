@@ -3,6 +3,9 @@
 # 云翼
 IP-CIDR,47.110.75.65/32,no-resolve
 
+# 阿里云
+DOMAIN，alidns.aliyuncs.com
+
 # 爱快
 DOMAIN-SUFFIX,ikuai8.com
 
