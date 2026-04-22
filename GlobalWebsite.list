@@ -29,8 +29,7 @@ DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,pushbulletusercontent.com
 
 # redsift
-DOMAIN-SUFFIX,redsift.cloud
-DOMAIN,redsift.reporting.hardenize.com
+DOMAIN-KEYWORD,redsift
 DOMAIN,public.sifts.io
 
 # weather
