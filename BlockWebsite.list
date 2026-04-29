@@ -201,14 +201,16 @@ DOMAIN-SUFFIX,ads.vungle.com
 # 广告
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,casalemedia.com
+# DOMAIN-SUFFIX,chnsrv.com
 DOMAIN-SUFFIX,creativecdn.com
 DOMAIN-SUFFIX,ispot.tv
-DOMAIN-SUFFIX,magsrv.com
+# DOMAIN-SUFFIX,magsrv.com
 DOMAIN-SUFFIX,media.net
 DOMAIN-SUFFIX,openx.net
-DOMAIN-SUFFIX,pemsrv.com
+# DOMAIN-SUFFIX,pemsrv.com
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,rlcdn.com
 DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,sharethrough.com
+DOMAIN-SUFFIX,srv.com
 DOMAIN-SUFFIX,tsyndicate.com
