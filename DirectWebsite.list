@@ -16,9 +16,6 @@ DOMAIN-SUFFIX,mcafee.com
 DOMAIN-SUFFIX,hp.com
 DOMAIN-SUFFIX,sony.com
 
-# 论坛
-DOMAIN-SUFFIX,linux.do
-
 # 夸克
 DOMAIN-SUFFIX,quark.cn
 
