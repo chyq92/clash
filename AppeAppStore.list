@@ -1,0 +1,7 @@
+# Apple Appe Store相关域名
+
+DOMAIN,app-site-association.cdn-apple.com
+DOMAIN,apps.mzstatic.com
+DOMAIN,is1-ssl.mzstatic.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
