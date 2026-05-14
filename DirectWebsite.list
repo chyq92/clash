@@ -19,9 +19,16 @@ DOMAIN-SUFFIX,sony.com
 # 夸克
 DOMAIN-SUFFIX,quark.cn
 
+#数码相关
+DOMAIN,deeprouter.org
+DOMAIN-SUFFIX,fastly-edge.com
+
 # 域名
 DOMAIN-KEYWORD,dynv6
 DOMAIN-SUFFIX,dyndns.com
+
+# 转中
+DOMAIN-SUFFIX,uszcn.com
 
 # AdBlock
 DOMAIN-SUFFIX,standsapp.org
@@ -75,14 +82,3 @@ DST-PORT,123
 # vscode
 DOMAIN-KEYWORD,vscode
 DOMAIN,default.exp-tas.com
-
-DOMAIN,crl.verisign.com
-DOMAIN,api.ttt.sh
-DOMAIN-SUFFIX,uszcn.com
-
-DOMAIN-SUFFIX,clicktale.net
-DOMAIN-SUFFIX,chatra.io
-# DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,rpt-cdxcn.com
-DOMAIN-SUFFIX,gsecondscreen.com
-DOMAIN,ohttp-relay1.fastly-edge.com
