@@ -57,7 +57,7 @@ DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com
 
 # 微薄
-# DOMAIN-SUFFIX,biz.weibo.com
+DOMAIN-SUFFIX,biz.weibo.com
 DOMAIN,bootpreload.uve.weibo.com
 DOMAIN,bootrealtime.uve.weibo.com
 DOMAIN,sdkapp.uve.weibo.com
