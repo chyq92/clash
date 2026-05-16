@@ -64,6 +64,9 @@ DOMAIN-SUFFIX,protechts.net
 # Oracle
 DOMAIN-SUFFIX,oracle.com
 
+# QNAP DDNS
+DOMAIN,qcenter-config-device.api.myqnapcloud.com
+
 # SSL证书
 DOMAIN-SUFFIX,lencr.org
 DOMAIN,cdp.rapidssl.com
