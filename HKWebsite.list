@@ -4,3 +4,6 @@
 DOMAIN-KEYWORD,manwa
 DOMAIN-KEYWORD,mwfimsvfast
 DOMAIN-SUFFIX,mwappimgs.cc
+
+# 腐小说，不可用自建节点
+DOMAIN-SUFFIX,fxshu.top
