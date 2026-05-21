@@ -2,6 +2,7 @@
 
 # 云翼
 IP-CIDR,47.110.75.65/32,no-resolve
+DOMAIN-SUFFIX,cn-shanghai.fcapp.run
 
 # 阿里云
 DOMAIN,alidns.aliyuncs.com
