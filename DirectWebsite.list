@@ -73,6 +73,7 @@ DOMAIN-KEYWORD,ocsp
 DOMAIN-SUFFIX,lencr.org
 DOMAIN,cdp.rapidssl.com
 DOMAIN,crl.digicert-cn.com
+DOMAIN,secure.globalsign.com
 DOMAIN,status.rapidssl.com
 
 # Star Walk 2
