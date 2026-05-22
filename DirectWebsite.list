@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,ikuai8.com
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,mcafee.com
-DOMAIN-SUFFIX,hp.com
+# DOMAIN-SUFFIX,hp.com
 DOMAIN-SUFFIX,sony.com
 
 # 夸克
