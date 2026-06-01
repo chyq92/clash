@@ -1,6 +1,7 @@
 # 内容：国内网站
 
 # 阿里巴巴
+IP-CIDR,47.246.100.0/22,no-resolve
 IP-CIDR,47.246.176.0/21,no-resolve
 IP-CIDR,47.251.0.0/17,no-resolve
 IP-CIDR,139.95.0.0/23,no-resolve
