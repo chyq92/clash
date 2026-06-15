@@ -31,6 +31,9 @@ DOMAIN-SUFFIX,uszcn.com
 # AdBlock
 DOMAIN-SUFFIX,standsapp.org
 
+# Bandwagon
+DOMAIN,kiwivm.64clouds.com
+
 # cdn
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,fastly.jsdelivr.net
