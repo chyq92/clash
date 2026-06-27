@@ -14,3 +14,6 @@ DOMAIN-SUFFIX,leetcode.com
 DOMAIN-SUFFIX,geeksforgeeks.org
 DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,w3resource.com
+
+# Openwrt
+DOMAIN-SUFFIX,openwrt.org
