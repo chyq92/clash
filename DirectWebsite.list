@@ -51,7 +51,8 @@ DOMAIN-SUFFIX,djiservice.org
 DOMAIN-SUFFIX,eset.com
 DOMAIN-SUFFIX,eset.systems
 DOMAIN-SUFFIX,e5.sk
-IP-CIDR,91.228.167.43/32,no-resolve
+IP-CIDR,91.228.166.0/24,no-resolve
+IP-CIDR,91.228.167.0/24,no-resolve
 
 # Flighty
 DOMAIN,api.flightyapp.com
