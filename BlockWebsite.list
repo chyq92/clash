@@ -13,7 +13,10 @@ DOMAIN,sp1.baidu.com
 DOMAIN-SUFFIX,appsflyer.com
 
 # 多邻国广告
+DOMAIN-SUFFIX,ads.vungle.com
+DOMAIN-SUFFIX,tiktokpangle.us
 DOMAIN-SUFFIX,unity3d.com
+
 
 # 高德
 DOMAIN,optimus-ads.amap.com
@@ -196,7 +199,6 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,stikroltiltoowi.net
 DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,volceapplog.com
-DOMAIN-SUFFIX,ads.vungle.com
 
 # 广告
 DOMAIN-KEYWORD,stripchat
