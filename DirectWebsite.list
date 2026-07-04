@@ -73,13 +73,13 @@ DOMAIN-SUFFIX,oracle.com
 DOMAIN,edge.myqnapcloud.io
 
 # SSL证书
-DOMAIN-KEYWORD,ocsp
-DOMAIN-SUFFIX,lencr.org
 DOMAIN,cdp.rapidssl.com
-DOMAIN,crl4.digicert.com
-DOMAIN,crl.digicert-cn.com
 DOMAIN,secure.globalsign.com
 DOMAIN,status.rapidssl.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,digicert-cn.com
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-KEYWORD,ocsp
 
 # Star Walk 2
 DOMAIN-SUFFIX,swalk.co
