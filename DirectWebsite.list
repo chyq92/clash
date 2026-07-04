@@ -57,6 +57,9 @@ IP-CIDR,91.228.167.0/24,no-resolve
 # Flighty
 DOMAIN,api.flightyapp.com
 
+# iPeriod app
+DOMAIN,ip-api.com
+
 # IP查询
 DOMAIN-SUFFIX,ping0.cc
 
