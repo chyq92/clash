@@ -207,16 +207,17 @@ DOMAIN-KEYWORD,cedexis
 DOMAIN-KEYWORD,hotjar
 
 # 广告
+DOMAIN,go.bluetracktor.com
 DOMAIN,cdn-fc.com
 DOMAIN,img.doppiocdn.com
-DOMAIN,strip.chat
-DOMAIN,assets.strpst.com
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,casalemedia.com
 DOMAIN-SUFFIX,chnsrv.com
 DOMAIN-SUFFIX,creativecdn.com
 DOMAIN-SUFFIX,girls.chat
+DOMAIN-SUFFIX,godkc.com
 DOMAIN-SUFFIX,ispot.tv
+DOMAIN-SUFFIX,janusaent.com
 DOMAIN-SUFFIX,magsrv.com
 DOMAIN-SUFFIX,media.net
 DOMAIN-SUFFIX,openx.net
@@ -224,7 +225,8 @@ DOMAIN-SUFFIX,pemsrv.com
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,rlcdn.com
 DOMAIN-SUFFIX,rubiconproject.com
+DOMAIN-SUFFIX,strip.chat
+DOMAIN-SUFFIX,strpst.com
 DOMAIN-SUFFIX,sharethrough.com
 DOMAIN-SUFFIX,tsyndicate.com
 DOMAIN-KEYWORD,stripchat
-
