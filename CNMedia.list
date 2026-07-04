@@ -6,7 +6,7 @@
 # DOMAIN,upc.zztfly.com 小红书相关
 
 # 喜马拉雅
-IP-CIDR,43.231.144.0/20,no-resolve
+IP-CIDR,43.231.145.10/32,no-resolve
 IP-CIDR,101.91.134.0/24,no-resolve
 IP-CIDR,101.91.135.0/24,no-resolve
 DST-PORT,3814
