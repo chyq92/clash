@@ -1,13 +1,13 @@
 # 内容：屏蔽网站
 
 # 百度
-DOMAIN-SUFFIX,baidustatic.com
-# DOMAIN-SUFFIX,bdstatic.com
 DOMAIN,bgg.baidu.com
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
 DOMAIN,msite.baidu.com
 DOMAIN,sp1.baidu.com
+DOMAIN-SUFFIX,baidustatic.com
+# DOMAIN-SUFFIX,bdstatic.com
 
 # B站
 DOMAIN-SUFFIX,appsflyer.com
@@ -30,14 +30,14 @@ DOMAIN,open.e.kuaishou.com
 DOMAIN,open.kuaishouzt.com
 
 # 淘宝
-DOMAIN-SUFFIX,tanx.com
-DOMAIN-SUFFIX,ut.taobao.com
 DOMAIN,amdc.m.taobao.com
 DOMAIN,atoken.m.taobao.com
 DOMAIN,audid-api.taobao.com
 DOMAIN,cdn.taboola.com
 DOMAIN,fourier.taobao.com
 DOMAIN,h-adashx.ut.taobao.com
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,ut.taobao.com
 
 # 腾讯
 DOMAIN,adsmind.gdtimg.com
@@ -61,13 +61,12 @@ DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com
 
 # 微薄
-DOMAIN-SUFFIX,biz.weibo.com
 DOMAIN,bootpreload.uve.weibo.com
 DOMAIN,bootrealtime.uve.weibo.com
 DOMAIN,sdkapp.uve.weibo.com
+DOMAIN-SUFFIX,biz.weibo.com
 
 # 小红书
-DOMAIN-SUFFIX,miaozhen.com
 DOMAIN,ads-img-al.xhscdn.com
 DOMAIN,apm-fe.xiaohongshu.com
 DOMAIN,apm-native.xiaohongshu.com
@@ -77,19 +76,20 @@ DOMAIN,spider-tracker.xiaohongshu.com
 # DOMAIN,edith.xiaohongshu.com
 # DOMAIN,lng.xiaohongshu.com
 # DOMAIN,t2.xiaohongshu.com
+DOMAIN-SUFFIX,miaozhen.com
 
 # 喜马拉雅
-DOMAIN-SUFFIX,gepush.com
-DOMAIN-SUFFIX,getui.net
-DOMAIN-SUFFIX,getui.com
-DOMAIN-SUFFIX,igexin.com
-DOMAIN-SUFFIX,pcdn.xmcdn.com
 DOMAIN,mssdk.volces.com
 # DOMAIN,adse.ximalaya.com
 DOMAIN,adse.test.ximalaya.com
 DOMAIN,adse.wsa.ximalaya.com
 DOMAIN,adbehavior.ximalaya.com
 DOMAIN,adbehavior.wsa.ximalaya.com
+DOMAIN-SUFFIX,gepush.com
+DOMAIN-SUFFIX,getui.net
+DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,igexin.com
+DOMAIN-SUFFIX,pcdn.xmcdn.com
 
 # 迅雷
 # DOMAIN,analysis-acc-ssl.xunlei.com
@@ -122,12 +122,6 @@ DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,appsflyersdk.com
 
 # Google
-# DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,app-ads-services.com
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,gvt3.com
 DOMAIN,adservice.google.com
 DOMAIN,app-analytics-services.com
 DOMAIN,app-measurement.com
@@ -138,6 +132,13 @@ DOMAIN,static.doubleclick.net
 # DOMAIN,fundingchoicesmessages.google.com
 DOMAIN,ogads-pa.clients6.google.com
 DOMAIN,www.google-analytics.com
+# DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,app-ads-services.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-KEYWORD,pagead2
 
 # Linkedin
 DOMAIN,px.ads.linkedin.com
@@ -187,8 +188,6 @@ DOMAIN,pixel.tapad.com
 DOMAIN,sd-gl.xinqiucc.com
 DOMAIN,ads.yieldmo.com
 
-DOMAIN-KEYWORD,cedexis
-DOMAIN-KEYWORD,hotjar
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
 DOMAIN-SUFFIX,beizi.biz
@@ -204,9 +203,14 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,stikroltiltoowi.net
 DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,volceapplog.com
+DOMAIN-KEYWORD,cedexis
+DOMAIN-KEYWORD,hotjar
 
 # 广告
-DOMAIN-KEYWORD,stripchat
+DOMAIN,cdn-fc.com
+DOMAIN,img.doppiocdn.com
+DOMAIN,strip.chat
+DOMAIN,assets.strpst.com
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,casalemedia.com
 DOMAIN-SUFFIX,chnsrv.com
@@ -222,3 +226,5 @@ DOMAIN-SUFFIX,rlcdn.com
 DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,sharethrough.com
 DOMAIN-SUFFIX,tsyndicate.com
+DOMAIN-KEYWORD,stripchat
+
