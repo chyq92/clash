@@ -13,10 +13,11 @@ DOMAIN,sp1.baidu.com
 DOMAIN-SUFFIX,appsflyer.com
 
 # 多邻国广告
-DOMAIN-SUFFIX,ads.vungle.com
-DOMAIN-SUFFIX,tiktokpangle.us
+DOMAIN,logs.ads.vungle.com
+DOMAIN,api16-access-ttp.tiktokpangle.us
+DOMAIN-SUFFIX,adsmoloco.com
+DOMAIN-SUFFIX,dsp-api.moloco.com
 DOMAIN-SUFFIX,unity3d.com
-
 
 # 高德
 DOMAIN,optimus-ads.amap.com
@@ -122,16 +123,20 @@ DOMAIN-SUFFIX,appsflyersdk.com
 
 # Google
 # DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,app-ads-services.com
+DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN,adservice.google.com
-# DOMAIN,app-analytics-services.com
+DOMAIN,app-analytics-services.com
 DOMAIN,app-measurement.com
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,pubads.g.doubleclick.net
+DOMAIN,static.doubleclick.net
 # DOMAIN,firebaselogging-pa.googleapis.com
-DOMAIN,fundingchoicesmessages.google.com
+# DOMAIN,fundingchoicesmessages.google.com
 DOMAIN,ogads-pa.clients6.google.com
-# DOMAIN,www.googleadservices.com
 DOMAIN,www.google-analytics.com
 
 # Linkedin
