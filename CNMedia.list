@@ -4,9 +4,12 @@
 # DOMAIN-SUFFIX,joinchitchat.com
 # DOMAIN-SUFFIX,jpush.cn 推送服务
 # DOMAIN,upc.zztfly.com 小红书相关
-IP-CIDR,43.231.145.10/32,no-resolve
-# DST-PORT,5224
+
+# 喜马拉雅
+IP-CIDR,43.231.144.0/20,no-resolve
 IP-CIDR,101.91.134.0/24,no-resolve
 IP-CIDR,101.91.135.0/24,no-resolve
 DST-PORT,3814
 DST-PORT,3815
+DST-PORT,5224
+IP-CIDR,114.114.114.114,no-resolve
