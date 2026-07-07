@@ -13,10 +13,10 @@ DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,appsflyer.com
 
 # 多邻国广告
-DOMAIN,logs.ads.vungle.com
 DOMAIN,api16-access-ttp.tiktokpangle.us
 DOMAIN-SUFFIX,adsmoloco.com
 DOMAIN-SUFFIX,dsp-api.moloco.com
+DOMAIN-SUFFIX,ads.vungle.com
 DOMAIN-SUFFIX,unity3d.com
 
 # 高德
@@ -150,6 +150,7 @@ DOMAIN,snap.licdn.com
 # Microsoft
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN,bat.bing.com
+DOMAIN,adsdk.bing.net
 
 # Yahoo
 DOMAIN,sp.analytics.yahoo.com
@@ -177,6 +178,8 @@ DOMAIN,ad.holmesmind.com
 DOMAIN,js-sec.indexww.com
 DOMAIN,ap.lijit.com
 DOMAIN,rtb.mfadsrvr.com
+DOMAIN,analytics-tcp.mintegral.net
+DOMAIN,observe-tcp.mtgglobals.com
 DOMAIN,secure.quantserve.com
 DOMAIN,v2.reachmax.cn
 DOMAIN,s.ad.smaato.net
@@ -185,6 +188,7 @@ DOMAIN,sync.go.sonobi.com
 DOMAIN,sync.srv.stackadapt.com
 DOMAIN,ads.stickyadstv.com
 DOMAIN,pixel.tapad.com
+DOMAIN,telemetrydeck.com
 DOMAIN,sd-gl.xinqiucc.com
 DOMAIN,ads.yieldmo.com
 
@@ -194,6 +198,7 @@ DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,bullionglidingscuttle.com
+DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,optimizely.com
