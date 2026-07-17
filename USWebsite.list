@@ -16,3 +16,7 @@ DOMAIN-SUFFIX,images.ctfassets.net
 # Canyoneering
 DOMAIN-SUFFIX,ropewiki.com
 DOMAIN-SUFFIX,hownot2.com
+
+# Big company
+DOMAIN-SUFFIX,databricks.com
+DOMAIN-SUFFIX,oracle.com
