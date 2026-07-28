@@ -195,8 +195,8 @@ DOMAIN,ads.yieldmo.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
 DOMAIN-SUFFIX,beizi.biz
-DOMAIN-SUFFIX,braze.com
-DOMAIN-SUFFIX,braze.eu
+# DOMAIN-SUFFIX,braze.com
+# DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,bullionglidingscuttle.com
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,mmstat.com
