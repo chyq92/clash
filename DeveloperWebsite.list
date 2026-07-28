@@ -10,7 +10,9 @@ DOMAIN-SUFFIX,redditspace.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
 
+# coding
 DOMAIN-SUFFIX,leetcode.com
+DOMAIN-SUFFIX,hackerrank.com
 DOMAIN-SUFFIX,geeksforgeeks.org
 DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,w3resource.com
