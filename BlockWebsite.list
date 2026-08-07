@@ -130,7 +130,7 @@ DOMAIN,pubads.g.doubleclick.net
 DOMAIN,static.doubleclick.net
 # DOMAIN,firebaselogging-pa.googleapis.com
 # DOMAIN,fundingchoicesmessages.google.com
-# DOMAIN,ogads-pa.clients6.google.com
+DOMAIN,ogads-pa.clients6.google.com
 DOMAIN,www.google-analytics.com
 # DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,app-ads-services.com
