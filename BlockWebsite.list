@@ -41,13 +41,14 @@ DOMAIN-SUFFIX,ut.taobao.com
 
 # 腾讯
 DOMAIN,adsmind.gdtimg.com
-DOMAIN,h.trace.qq.com
+DOMAIN,galileotelemetry.tencent.com
 DOMAIN,apd-pcdnvodstat.teg.tencent-cloud.net
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,ad.tencentmusic.com
 DOMAIN,adstats.tencentmusic.com
+DOMAIN,h.trace.qq.com
+DOMAIN,otheve.beacon.qq.com
 # DOMAIN,tpstelemetry.tencent.com
-# DOMAIN,otheve.beacon.qq.com
 # DOMAIN,rmonitor.qq.com
 # DOMAIN,wxapp.tc.qq.com
 # DOMAIN,aeventlog.beacon.qq.com
@@ -70,12 +71,12 @@ DOMAIN-SUFFIX,biz.weibo.com
 DOMAIN,ads-img-al.xhscdn.com
 DOMAIN,apm-fe.xiaohongshu.com
 DOMAIN,apm-native.xiaohongshu.com
+DOMAIN,lng.xiaohongshu.com
 DOMAIN,modelportrait.xiaohongshu.com
 DOMAIN,spider-tracker.xiaohongshu.com
+DOMAIN,t2.xiaohongshu.com
 # DOMAIN,as.xiaohongshu.com
 # DOMAIN,edith.xiaohongshu.com
-# DOMAIN,lng.xiaohongshu.com
-# DOMAIN,t2.xiaohongshu.com
 DOMAIN-SUFFIX,miaozhen.com
 
 # 喜马拉雅
@@ -122,17 +123,17 @@ DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,appsflyersdk.com
 
 # Google
-DOMAIN,adservice.google.com
 DOMAIN,app-analytics-services.com
 DOMAIN,app-measurement.com
 DOMAIN,googleads.g.doubleclick.net
 DOMAIN,pubads.g.doubleclick.net
 DOMAIN,static.doubleclick.net
-# DOMAIN,firebaselogging-pa.googleapis.com
-# DOMAIN,fundingchoicesmessages.google.com
+DOMAIN,adservice.google.com
 DOMAIN,ogads-pa.clients6.google.com
 DOMAIN,www.google-analytics.com
 # DOMAIN-SUFFIX,doubleclick.net
+# DOMAIN,fundingchoicesmessages.google.com
+# DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,app-ads-services.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googlesyndication.com
@@ -176,6 +177,7 @@ DOMAIN,t.getletterpress.com
 DOMAIN,gdfp.gifshow.com
 DOMAIN,ad.holmesmind.com
 DOMAIN,js-sec.indexww.com
+DOMAIN,telemetry.sdk.inmobi.cn
 DOMAIN,ap.lijit.com
 DOMAIN,rtb.mfadsrvr.com
 DOMAIN,analytics-tcp.mintegral.net
@@ -187,6 +189,7 @@ DOMAIN,ssbsync.smartadserver.com
 DOMAIN,sync.go.sonobi.com
 DOMAIN,sync.srv.stackadapt.com
 DOMAIN,ads.stickyadstv.com
+DOMAIN,collector.superwall.me
 DOMAIN,pixel.tapad.com
 DOMAIN,telemetrydeck.com
 DOMAIN,sd-gl.xinqiucc.com
@@ -194,6 +197,7 @@ DOMAIN,ads.yieldmo.com
 
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
+DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,braze.eu
