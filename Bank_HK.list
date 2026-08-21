@@ -27,6 +27,9 @@ DOMAIN-SUFFIX,hk.chinamobile.com
 #中银香港
 DOMAIN-KEYWORD,bochk
 
+# CSL
+DOMAIN-SUFFIX,hkcsl.com
+
 # eMPF
 DOMAIN-SUFFIX,empf.org.hk
 DOMAIN,empfpc.queue-it.net
