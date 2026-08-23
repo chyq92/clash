@@ -5,6 +5,6 @@ DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,myqnapcloud.io
 DOMAIN-SUFFIX,documentforce.com
 DOMAIN-SUFFIX,force.com
-DOMAIN,dht.libtorrent.org
-DOMAIN,webservice.fanart.tv
+# DOMAIN,dht.libtorrent.org
+# DOMAIN,webservice.fanart.tv
 DOMAIN-KEYWORD,qnap
