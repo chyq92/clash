@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,pcdn.xmcdn.com
 
 # 优酷
 DOMAIN,pcapp-data-collect.youku.com
+# DOMAIN-SUFFIX,mmstat.com
 
 # 友盟
 DOMAIN-SUFFIX,umengcloud.com
@@ -203,7 +204,6 @@ DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,bullionglidingscuttle.com
 DOMAIN-SUFFIX,inmobi.com
-DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,scorecardresearch.com
