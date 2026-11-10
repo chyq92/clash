@@ -1,7 +1,9 @@
 # 内容：直连网站
 
 # 云翼
-# IP-CIDR,47.110.75.65/32,no-resolve
+DOMAIN-SUFFIX,bestvmr.com
+DOMAIN-SUFFIX,zzsspnode.com
+DOMAIN-SUFFIX,906961-zwba5xdvem8ky963.alidns.com
 # DOMAIN-SUFFIX,cn-shanghai.fcapp.run
 
 # 阿里云
