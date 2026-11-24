@@ -94,3 +94,6 @@ DST-PORT,123
 # vscode
 DOMAIN-KEYWORD,vscode
 DOMAIN,default.exp-tas.com
+
+# xmatters
+DOMAIN,hsbc.hosted.xmatters.com
